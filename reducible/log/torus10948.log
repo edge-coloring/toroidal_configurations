@@ -1,0 +1,29 @@
+[2024-09-19 14:56:45.727] [info] Kempe type: Toroidal
+[2024-09-19 14:56:45.727] [info] Vertex size: 34, Edge size: 58, Ring size: 14
+[2024-09-19 14:56:46.112] [info] Started D-reducibility check
+[2024-09-19 14:56:46.112] [info] #1: Feasible / Total: 23146 / 199291
+[2024-09-19 14:58:11.313] [info] #2: Feasible / Total: 31531 / 199291
+[2024-09-19 14:58:30.309] [info] #3: Feasible / Total: 36139 / 199291
+[2024-09-19 14:58:45.192] [info] #4: Feasible / Total: 39185 / 199291
+[2024-09-19 14:58:56.239] [info] #5: Feasible / Total: 41342 / 199291
+[2024-09-19 14:59:08.150] [info] #6: Feasible / Total: 43490 / 199291
+[2024-09-19 14:59:21.161] [info] #7: Feasible / Total: 45787 / 199291
+[2024-09-19 14:59:33.150] [info] #8: Feasible / Total: 48894 / 199291
+[2024-09-19 14:59:49.808] [info] #9: Feasible / Total: 53170 / 199291
+[2024-09-19 15:00:09.595] [info] #10: Feasible / Total: 58671 / 199291
+[2024-09-19 15:00:31.597] [info] #11: Feasible / Total: 64842 / 199291
+[2024-09-19 15:00:57.615] [info] #12: Feasible / Total: 72992 / 199291
+[2024-09-19 15:01:27.747] [info] #13: Feasible / Total: 83661 / 199291
+[2024-09-19 15:02:00.916] [info] #14: Feasible / Total: 96152 / 199291
+[2024-09-19 15:02:27.733] [info] #15: Feasible / Total: 106772 / 199291
+[2024-09-19 15:02:36.421] [info] #16: Feasible / Total: 110918 / 199291
+[2024-09-19 15:02:38.123] [info] #17: Feasible / Total: 111210 / 199291
+[2024-09-19 15:02:38.948] [info] #18: Feasible / Total: 111213 / 199291
+[2024-09-19 15:02:39.730] [info] #19: Feasible / Total: 111214 / 199291
+[2024-09-19 15:02:40.514] [info] #19: Feasible / Total: 111214 / 199291
+[2024-09-19 15:02:40.514] [info] Graph is not D-reducible.
+[2024-09-19 15:02:40.535] [info] Started C-reducibility check
+[2024-09-19 15:03:10.577] [info] Trying 22303751 possible contractions
+[2024-09-19 15:03:10.577] [info] [0/22303751] Starting contraction of size 1
+[2024-09-19 15:03:11.408] [info] All colors passed! Contracted: 41
+[2024-09-19 15:03:11.408] [info] Graph is C-reducible!

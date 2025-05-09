@@ -1,0 +1,30 @@
+[2023-11-17 14:12:08.835] [info] Kempe type: Toroidal
+[2023-11-17 14:12:08.838] [info] Vertex size: 31, Edge size: 53, Ring size: 13
+[2023-11-17 14:12:10.674] [info] Started D-reducibility check
+[2023-11-17 14:12:10.674] [info] #1: Feasible / Total: 9135 / 66430
+[2023-11-17 14:14:09.018] [info] #2: Feasible / Total: 12760 / 66430
+[2023-11-17 14:14:58.478] [info] #3: Feasible / Total: 14870 / 66430
+[2023-11-17 14:15:32.866] [info] #4: Feasible / Total: 16202 / 66430
+[2023-11-17 14:15:55.526] [info] #5: Feasible / Total: 17186 / 66430
+[2023-11-17 14:16:16.423] [info] #6: Feasible / Total: 18305 / 66430
+[2023-11-17 14:16:40.982] [info] #7: Feasible / Total: 19613 / 66430
+[2023-11-17 14:17:13.164] [info] #8: Feasible / Total: 21607 / 66430
+[2023-11-17 14:17:56.509] [info] #9: Feasible / Total: 24677 / 66430
+[2023-11-17 14:19:07.266] [info] #10: Feasible / Total: 29877 / 66430
+[2023-11-17 14:20:30.841] [info] #11: Feasible / Total: 38722 / 66430
+[2023-11-17 14:21:21.920] [info] #12: Feasible / Total: 47245 / 66430
+[2023-11-17 14:21:38.165] [info] #13: Feasible / Total: 49864 / 66430
+[2023-11-17 14:21:41.965] [info] #14: Feasible / Total: 50442 / 66430
+[2023-11-17 14:21:44.415] [info] #15: Feasible / Total: 50639 / 66430
+[2023-11-17 14:21:48.270] [info] #16: Feasible / Total: 51207 / 66430
+[2023-11-17 14:21:54.037] [info] #17: Feasible / Total: 53027 / 66430
+[2023-11-17 14:21:56.018] [info] #18: Feasible / Total: 53588 / 66430
+[2023-11-17 14:21:56.634] [info] #18: Feasible / Total: 53588 / 66430
+[2023-11-17 14:21:56.638] [info] Graph is not D-reducible.
+[2023-11-17 14:21:56.658] [info] Started C-reducibility check
+[2023-11-17 14:24:59.658] [info] Trying 8124911 possible contractions
+[2023-11-17 14:24:59.663] [info] [0/8124911] Starting contraction of size 1
+[2023-11-17 14:25:43.457] [info] [40/8124911] Starting contraction of size 2
+[2023-11-17 14:35:40.026] [info] [753/8124911] Starting contraction of size 3
+[2023-11-17 15:02:24.262] [info] All colors passed! Contracted: 22, 26, 50
+[2023-11-17 15:02:24.298] [info] Graph is C-reducible!

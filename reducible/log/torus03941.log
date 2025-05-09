@@ -1,0 +1,30 @@
+[2024-06-18 15:33:36.252] [info] Kempe type: Toroidal
+[2024-06-18 15:33:36.252] [info] Vertex size: 34, Edge size: 58, Ring size: 14
+[2024-06-18 15:33:37.967] [info] Started D-reducibility check
+[2024-06-18 15:33:37.967] [info] #1: Feasible / Total: 24480 / 199291
+[2024-06-18 15:35:33.925] [info] #2: Feasible / Total: 31773 / 199291
+[2024-06-18 15:35:55.579] [info] #3: Feasible / Total: 33930 / 199291
+[2024-06-18 15:36:09.748] [info] #4: Feasible / Total: 35431 / 199291
+[2024-06-18 15:36:25.826] [info] #5: Feasible / Total: 36824 / 199291
+[2024-06-18 15:36:39.866] [info] #6: Feasible / Total: 38314 / 199291
+[2024-06-18 15:36:56.497] [info] #7: Feasible / Total: 39993 / 199291
+[2024-06-18 15:37:12.892] [info] #8: Feasible / Total: 42175 / 199291
+[2024-06-18 15:37:41.245] [info] #9: Feasible / Total: 45674 / 199291
+[2024-06-18 15:38:26.246] [info] #10: Feasible / Total: 51379 / 199291
+[2024-06-18 15:39:26.540] [info] #11: Feasible / Total: 61865 / 199291
+[2024-06-18 15:41:10.424] [info] #12: Feasible / Total: 81368 / 199291
+[2024-06-18 15:42:39.344] [info] #13: Feasible / Total: 108164 / 199291
+[2024-06-18 15:43:04.908] [info] #14: Feasible / Total: 120285 / 199291
+[2024-06-18 15:43:10.528] [info] #15: Feasible / Total: 121063 / 199291
+[2024-06-18 15:43:12.505] [info] #16: Feasible / Total: 121260 / 199291
+[2024-06-18 15:43:14.534] [info] #17: Feasible / Total: 121366 / 199291
+[2024-06-18 15:43:15.616] [info] #18: Feasible / Total: 121378 / 199291
+[2024-06-18 15:43:16.853] [info] #19: Feasible / Total: 121385 / 199291
+[2024-06-18 15:43:18.552] [info] #20: Feasible / Total: 121386 / 199291
+[2024-06-18 15:43:19.463] [info] #20: Feasible / Total: 121386 / 199291
+[2024-06-18 15:43:19.463] [info] Graph is not D-reducible.
+[2024-06-18 15:43:19.486] [info] Started C-reducibility check
+[2024-06-18 15:44:11.761] [info] Trying 22308936 possible contractions
+[2024-06-18 15:44:11.762] [info] [0/22308936] Starting contraction of size 1
+[2024-06-18 15:44:28.117] [info] All colors passed! Contracted: 49
+[2024-06-18 15:44:28.117] [info] Graph is C-reducible!

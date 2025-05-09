@@ -1,0 +1,82 @@
+[2025-03-06 15:45:21.789] [info] Kempe type: Toroidal
+[2025-03-06 15:45:21.789] [info] Vertex size: 28, Edge size: 48, Ring size: 12
+[2025-03-06 15:45:21.927] [info] Started D-reducibility check
+[2025-03-06 15:45:21.942] [info] #1: Feasible / Total: 4022 / 22144
+[2025-03-06 15:45:25.394] [info] #2: Feasible / Total: 5541 / 22144
+[2025-03-06 15:45:26.267] [info] #3: Feasible / Total: 6475 / 22144
+[2025-03-06 15:45:26.989] [info] #4: Feasible / Total: 7364 / 22144
+[2025-03-06 15:45:28.167] [info] #5: Feasible / Total: 8928 / 22144
+[2025-03-06 15:45:29.179] [info] #6: Feasible / Total: 10972 / 22144
+[2025-03-06 15:45:30.261] [info] #7: Feasible / Total: 13091 / 22144
+[2025-03-06 15:45:30.813] [info] #8: Feasible / Total: 14089 / 22144
+[2025-03-06 15:45:30.931] [info] #9: Feasible / Total: 14214 / 22144
+[2025-03-06 15:45:30.981] [info] #10: Feasible / Total: 14228 / 22144
+[2025-03-06 15:45:31.023] [info] #10: Feasible / Total: 14228 / 22144
+[2025-03-06 15:45:31.023] [info] Graph is not D-reducible.
+[2025-03-06 15:45:31.026] [info] Started C-reducibility check
+[2025-03-06 15:45:43.195] [info] Trying 9454374 possible contractions
+[2025-03-06 15:45:43.195] [info] [0/9454374] Starting contraction of size 1
+[2025-03-06 15:45:45.254] [info] [36/9454374] Starting contraction of size 2
+[2025-03-06 15:46:12.988] [info] [606/9454374] Starting contraction of size 3
+[2025-03-06 15:48:25.884] [info] All colors passed! Contracted: 31, 33, 47
+[2025-03-06 15:49:04.388] [info] All colors passed! Contracted: 35, 39, 46
+[2025-03-06 15:49:52.466] [info] [5855/9454374] Starting contraction of size 4
+[2025-03-06 15:54:13.882] [info] All colors passed! Contracted: 28, 29, 36, 43
+[2025-03-06 15:55:26.693] [info] All colors passed! Contracted: 27, 31, 33, 47
+[2025-03-06 15:59:33.703] [info] All colors passed! Contracted: 17, 36, 40, 44
+[2025-03-06 16:00:39.302] [info] All colors passed! Contracted: 15, 35, 39, 46
+[2025-03-06 16:02:48.364] [info] All colors passed! Contracted: 26, 31, 33, 47
+[2025-03-06 16:05:42.858] [info] All colors passed! Contracted: 35, 39, 43, 46
+[2025-03-06 16:06:07.992] [info] All colors passed! Contracted: 35, 38, 39, 46
+[2025-03-06 16:06:38.326] [info] All colors passed! Contracted: 14, 35, 39, 46
+[2025-03-06 16:06:58.575] [info] All colors passed! Contracted: 31, 33, 37, 47
+[2025-03-06 16:07:45.412] [info] All colors passed! Contracted: 31, 33, 44, 47
+[2025-03-06 16:08:38.033] [info] [37223/9454374] Starting contraction of size 5
+[2025-03-06 16:12:35.946] [info] All colors passed! Contracted: 14, 35, 38, 39, 46
+[2025-03-06 16:12:39.010] [info] All colors passed! Contracted: 14, 35, 39, 43, 46
+[2025-03-06 16:16:30.103] [info] All colors passed! Contracted: 15, 35, 39, 43, 46
+[2025-03-06 16:16:32.768] [info] All colors passed! Contracted: 15, 35, 38, 39, 46
+[2025-03-06 16:22:23.118] [info] All colors passed! Contracted: 17, 34, 36, 40, 44
+[2025-03-06 17:02:35.834] [info] All colors passed! Contracted: 26, 31, 33, 44, 47
+[2025-03-06 17:03:22.039] [info] All colors passed! Contracted: 26, 31, 33, 37, 47
+[2025-03-06 17:04:40.633] [info] All colors passed! Contracted: 28, 29, 30, 36, 43
+[2025-03-06 17:07:18.168] [info] All colors passed! Contracted: 27, 31, 33, 37, 47
+[2025-03-06 17:08:20.239] [info] All colors passed! Contracted: 27, 31, 33, 44, 47
+[2025-03-06 17:11:00.275] [info] [166016/9454374] Starting contraction of size 6
+[2025-03-06 17:19:32.841] [info] All colors passed! Contracted: 28, 29, 31, 32, 33, 47
+[2025-03-06 18:42:26.254] [info] All colors passed! Contracted: 31, 33, 36, 38, 43, 47
+[2025-03-06 18:50:02.816] [info] All colors passed! Contracted: 17, 35, 39, 40, 41, 46
+[2025-03-06 19:05:02.238] [info] All colors passed! Contracted: 35, 36, 37, 39, 44, 46
+[2025-03-06 19:38:59.648] [info] [542464/9454374] Starting contraction of size 7
+[2025-03-06 19:56:42.907] [info] All colors passed! Contracted: 14, 35, 36, 37, 39, 44, 46
+[2025-03-06 21:41:42.401] [info] All colors passed! Contracted: 17, 35, 39, 40, 41, 43, 46
+[2025-03-06 21:41:45.987] [info] All colors passed! Contracted: 17, 35, 38, 39, 40, 41, 46
+[2025-03-06 22:56:57.863] [info] All colors passed! Contracted: 15, 35, 36, 37, 39, 44, 46
+[2025-03-06 23:49:09.067] [info] All colors passed! Contracted: 27, 31, 33, 36, 38, 43, 47
+[2025-03-06 23:49:15.438] [info] All colors passed! Contracted: 26, 31, 33, 36, 38, 43, 47
+[2025-03-06 23:50:49.900] [info] All colors passed! Contracted: 28, 29, 31, 32, 33, 37, 47
+[2025-03-06 23:51:01.497] [info] All colors passed! Contracted: 28, 29, 31, 32, 33, 44, 47
+[2025-03-07 00:15:34.220] [info] [1347345/9454374] Starting contraction of size 8
+[2025-03-07 06:47:14.319] [info] [2640397/9454374] Starting contraction of size 9
+[2025-03-07 10:13:48.933] [info] All colors passed! Contracted: 17, 35, 36, 37, 39, 40, 41, 44, 46
+[2025-03-07 14:13:30.454] [info] All colors passed! Contracted: 28, 29, 31, 32, 33, 36, 38, 43, 47
+[2025-03-07 15:18:07.396] [info] [4250392/9454374] Starting contraction of size 10
+[2025-03-07 22:00:32.783] [info] [5859451/9454374] Starting contraction of size 11
+[2025-03-08 02:58:04.889] [info] [7196128/9454374] Starting contraction of size 12
+[2025-03-08 06:14:10.872] [info] [8149923/9454374] Starting contraction of size 13
+[2025-03-08 08:09:16.448] [info] [8753159/9454374] Starting contraction of size 14
+[2025-03-08 09:11:19.993] [info] [9100048/9454374] Starting contraction of size 15
+[2025-03-08 09:42:26.841] [info] [9284678/9454374] Starting contraction of size 16
+[2025-03-08 09:57:06.869] [info] [9376654/9454374] Starting contraction of size 17
+[2025-03-08 10:03:42.386] [info] [9420157/9454374] Starting contraction of size 18
+[2025-03-08 10:06:33.253] [info] [9439865/9454374] Starting contraction of size 19
+[2025-03-08 10:07:44.286] [info] [9448429/9454374] Starting contraction of size 20
+[2025-03-08 10:08:12.886] [info] [9452004/9454374] Starting contraction of size 21
+[2025-03-08 10:08:24.079] [info] [9453454/9454374] Starting contraction of size 22
+[2025-03-08 10:08:28.267] [info] [9454020/9454374] Starting contraction of size 23
+[2025-03-08 10:08:29.865] [info] [9454245/9454374] Starting contraction of size 24
+[2025-03-08 10:08:30.394] [info] [9454323/9454374] Starting contraction of size 25
+[2025-03-08 10:08:30.635] [info] [9454360/9454374] Starting contraction of size 26
+[2025-03-08 10:08:30.684] [info] [9454368/9454374] Starting contraction of size 27
+[2025-03-08 10:08:30.714] [info] [9454373/9454374] Starting contraction of size 29
+[2025-03-08 10:08:30.719] [info] Graph is C-reducible!

@@ -1,0 +1,319 @@
+[2025-03-06 15:45:21.788] [info] Kempe type: Toroidal
+[2025-03-06 15:45:21.788] [info] Vertex size: 25, Edge size: 43, Ring size: 11
+[2025-03-06 15:45:21.823] [info] Started D-reducibility check
+[2025-03-06 15:45:21.824] [info] #1: Feasible / Total: 1562 / 7381
+[2025-03-06 15:45:22.204] [info] #2: Feasible / Total: 2037 / 7381
+[2025-03-06 15:45:22.303] [info] #3: Feasible / Total: 2316 / 7381
+[2025-03-06 15:45:22.396] [info] #4: Feasible / Total: 2577 / 7381
+[2025-03-06 15:45:22.568] [info] #5: Feasible / Total: 3061 / 7381
+[2025-03-06 15:45:22.747] [info] #6: Feasible / Total: 3824 / 7381
+[2025-03-06 15:45:22.937] [info] #7: Feasible / Total: 4819 / 7381
+[2025-03-06 15:45:23.040] [info] #8: Feasible / Total: 5525 / 7381
+[2025-03-06 15:45:23.057] [info] #9: Feasible / Total: 5614 / 7381
+[2025-03-06 15:45:23.063] [info] #9: Feasible / Total: 5614 / 7381
+[2025-03-06 15:45:23.063] [info] Graph is not D-reducible.
+[2025-03-06 15:45:23.064] [info] Started C-reducibility check
+[2025-03-06 15:45:24.973] [info] Trying 1614999 possible contractions
+[2025-03-06 15:45:24.973] [info] [0/1614999] Starting contraction of size 1
+[2025-03-06 15:45:25.432] [info] [32/1614999] Starting contraction of size 2
+[2025-03-06 15:45:30.897] [info] [475/1614999] Starting contraction of size 3
+[2025-03-06 15:45:51.610] [info] All colors passed! Contracted: 12, 16, 42
+[2025-03-06 15:46:09.371] [info] [3976/1614999] Starting contraction of size 4
+[2025-03-06 15:46:16.100] [info] All colors passed! Contracted: 12, 13, 16, 42
+[2025-03-06 15:46:18.563] [info] All colors passed! Contracted: 12, 16, 17, 42
+[2025-03-06 15:47:19.942] [info] All colors passed! Contracted: 12, 16, 37, 42
+[2025-03-06 15:47:43.992] [info] All colors passed! Contracted: 12, 16, 20, 42
+[2025-03-06 15:48:07.574] [info] All colors passed! Contracted: 14, 18, 25, 41
+[2025-03-06 15:48:51.203] [info] [21563/1614999] Starting contraction of size 5
+[2025-03-06 15:50:03.063] [info] All colors passed! Contracted: 12, 13, 16, 17, 42
+[2025-03-06 15:51:21.536] [info] All colors passed! Contracted: 12, 16, 20, 37, 42
+[2025-03-06 15:57:21.878] [info] All colors passed! Contracted: 11, 14, 18, 25, 41
+[2025-03-06 15:57:25.421] [info] All colors passed! Contracted: 12, 13, 16, 20, 42
+[2025-03-06 15:57:34.007] [info] All colors passed! Contracted: 12, 16, 17, 37, 42
+[2025-03-06 15:57:50.376] [info] [80930/1614999] Starting contraction of size 6
+[2025-03-06 16:03:08.093] [info] All colors passed! Contracted: 15, 25, 31, 32, 37, 40
+[2025-03-06 16:03:08.114] [info] All colors passed! Contracted: 15, 25, 31, 32, 33, 40
+[2025-03-06 16:03:20.917] [info] All colors passed! Contracted: 12, 16, 18, 19, 25, 42
+[2025-03-06 16:03:58.496] [info] All colors passed! Contracted: 12, 14, 15, 16, 41, 42
+[2025-03-06 16:09:29.096] [info] All colors passed! Contracted: 13, 22, 25, 30, 33, 39
+[2025-03-06 16:10:33.605] [info] All colors passed! Contracted: 13, 22, 30, 33, 39, 41
+[2025-03-06 16:13:50.398] [info] [220490/1614999] Starting contraction of size 7
+[2025-03-06 16:19:43.965] [info] All colors passed! Contracted: 13, 22, 26, 28, 33, 35, 41
+[2025-03-06 16:19:49.303] [info] All colors passed! Contracted: 13, 22, 28, 30, 33, 39, 41
+[2025-03-06 16:19:56.011] [info] All colors passed! Contracted: 13, 22, 27, 30, 33, 39, 41
+[2025-03-06 16:19:57.140] [info] All colors passed! Contracted: 13, 22, 25, 26, 28, 33, 35
+[2025-03-06 16:20:03.802] [info] All colors passed! Contracted: 13, 22, 25, 28, 30, 33, 39
+[2025-03-06 16:20:04.824] [info] All colors passed! Contracted: 13, 22, 25, 30, 32, 33, 39
+[2025-03-06 16:20:06.641] [info] All colors passed! Contracted: 13, 22, 25, 27, 30, 33, 39
+[2025-03-06 16:20:24.152] [info] All colors passed! Contracted: 13, 22, 30, 32, 33, 39, 41
+[2025-03-06 16:21:27.187] [info] All colors passed! Contracted: 12, 14, 15, 16, 17, 41, 42
+[2025-03-06 16:22:04.907] [info] All colors passed! Contracted: 12, 14, 15, 16, 20, 41, 42
+[2025-03-06 16:23:00.403] [info] All colors passed! Contracted: 15, 22, 25, 31, 32, 33, 40
+[2025-03-06 16:23:00.465] [info] All colors passed! Contracted: 15, 22, 25, 31, 32, 37, 40
+[2025-03-06 16:23:15.665] [info] All colors passed! Contracted: 15, 24, 25, 26, 28, 32, 37
+[2025-03-06 16:23:16.792] [info] All colors passed! Contracted: 15, 24, 25, 26, 28, 32, 33
+[2025-03-06 16:23:43.889] [info] All colors passed! Contracted: 15, 21, 25, 31, 32, 33, 40
+[2025-03-06 16:23:43.918] [info] All colors passed! Contracted: 15, 21, 25, 31, 32, 37, 40
+[2025-03-06 16:23:52.050] [info] All colors passed! Contracted: 12, 16, 18, 19, 25, 37, 42
+[2025-03-06 16:24:17.788] [info] All colors passed! Contracted: 12, 13, 16, 18, 19, 25, 42
+[2025-03-06 16:24:21.804] [info] All colors passed! Contracted: 15, 25, 26, 31, 32, 33, 40
+[2025-03-06 16:24:21.832] [info] All colors passed! Contracted: 15, 25, 26, 31, 32, 37, 40
+[2025-03-06 16:35:34.744] [info] [456132/1614999] Starting contraction of size 8
+[2025-03-06 16:37:14.407] [info] All colors passed! Contracted: 13, 22, 30, 31, 33, 35, 39, 41
+[2025-03-06 16:37:18.775] [info] All colors passed! Contracted: 13, 22, 28, 30, 32, 33, 39, 41
+[2025-03-06 16:37:35.512] [info] All colors passed! Contracted: 13, 22, 26, 28, 33, 35, 40, 41
+[2025-03-06 16:37:38.942] [info] All colors passed! Contracted: 13, 22, 25, 30, 31, 33, 35, 39
+[2025-03-06 16:37:48.206] [info] All colors passed! Contracted: 13, 22, 26, 29, 30, 33, 39, 41
+[2025-03-06 16:39:11.390] [info] All colors passed! Contracted: 13, 22, 25, 26, 28, 33, 35, 40
+[2025-03-06 16:39:16.198] [info] All colors passed! Contracted: 13, 22, 25, 26, 29, 30, 33, 39
+[2025-03-06 16:39:21.752] [info] All colors passed! Contracted: 13, 22, 25, 28, 30, 32, 33, 39
+[2025-03-06 16:41:46.681] [info] All colors passed! Contracted: 12, 16, 23, 27, 30, 31, 34, 38
+[2025-03-06 16:46:55.378] [info] All colors passed! Contracted: 12, 16, 21, 23, 30, 31, 34, 38
+[2025-03-06 16:46:56.836] [info] All colors passed! Contracted: 12, 16, 21, 23, 27, 30, 34, 38
+[2025-03-06 16:46:59.759] [info] All colors passed! Contracted: 12, 16, 21, 23, 27, 31, 34, 38
+[2025-03-06 16:48:15.480] [info] All colors passed! Contracted: 15, 25, 28, 29, 31, 32, 37, 40
+[2025-03-06 16:48:16.245] [info] All colors passed! Contracted: 15, 25, 28, 29, 31, 32, 33, 40
+[2025-03-06 16:48:27.342] [info] All colors passed! Contracted: 15, 24, 25, 26, 28, 32, 37, 39
+[2025-03-06 16:48:27.447] [info] All colors passed! Contracted: 15, 24, 25, 26, 28, 32, 33, 39
+[2025-03-06 16:48:29.892] [info] All colors passed! Contracted: 15, 24, 25, 30, 31, 32, 33, 40
+[2025-03-06 16:48:29.904] [info] All colors passed! Contracted: 15, 24, 25, 30, 31, 32, 37, 40
+[2025-03-06 16:48:53.559] [info] All colors passed! Contracted: 15, 22, 25, 26, 31, 32, 33, 40
+[2025-03-06 16:48:53.874] [info] All colors passed! Contracted: 15, 22, 25, 26, 31, 32, 37, 40
+[2025-03-06 17:01:58.444] [info] [752255/1614999] Starting contraction of size 9
+[2025-03-06 17:07:32.598] [info] All colors passed! Contracted: 13, 22, 27, 30, 31, 33, 35, 39, 41
+[2025-03-06 17:07:33.219] [info] All colors passed! Contracted: 13, 22, 26, 29, 30, 32, 33, 39, 41
+[2025-03-06 17:07:47.747] [info] All colors passed! Contracted: 13, 22, 25, 27, 30, 31, 33, 35, 39
+[2025-03-06 17:07:49.282] [info] All colors passed! Contracted: 13, 22, 25, 26, 29, 30, 32, 33, 39
+[2025-03-06 17:07:49.575] [info] All colors passed! Contracted: 13, 22, 26, 27, 29, 30, 33, 39, 41
+[2025-03-06 17:07:53.081] [info] All colors passed! Contracted: 13, 22, 25, 26, 27, 29, 30, 33, 39
+[2025-03-06 17:14:00.984] [info] All colors passed! Contracted: 12, 16, 17, 23, 27, 30, 31, 34, 38
+[2025-03-06 17:14:03.706] [info] All colors passed! Contracted: 15, 21, 25, 28, 29, 31, 32, 37, 40
+[2025-03-06 17:14:03.909] [info] All colors passed! Contracted: 15, 21, 25, 28, 29, 31, 32, 33, 40
+[2025-03-06 17:14:06.073] [info] All colors passed! Contracted: 15, 21, 24, 25, 30, 31, 32, 37, 40
+[2025-03-06 17:14:06.095] [info] All colors passed! Contracted: 15, 21, 24, 25, 30, 31, 32, 33, 40
+[2025-03-06 17:14:14.295] [info] All colors passed! Contracted: 12, 13, 16, 23, 27, 30, 31, 34, 38
+[2025-03-06 17:14:20.931] [info] All colors passed! Contracted: 15, 22, 25, 28, 29, 31, 32, 33, 40
+[2025-03-06 17:14:21.079] [info] All colors passed! Contracted: 15, 22, 25, 28, 29, 31, 32, 37, 40
+[2025-03-06 17:14:38.614] [info] All colors passed! Contracted: 12, 13, 16, 21, 23, 27, 30, 34, 38
+[2025-03-06 17:14:41.144] [info] All colors passed! Contracted: 12, 13, 16, 21, 23, 30, 31, 34, 38
+[2025-03-06 17:14:42.355] [info] All colors passed! Contracted: 12, 13, 16, 21, 23, 27, 31, 34, 38
+[2025-03-06 17:14:50.865] [info] All colors passed! Contracted: 12, 16, 21, 23, 30, 31, 34, 36, 38
+[2025-03-06 17:14:50.893] [info] All colors passed! Contracted: 12, 16, 21, 23, 30, 31, 34, 38, 42
+[2025-03-06 17:15:06.708] [info] All colors passed! Contracted: 12, 16, 21, 23, 27, 31, 34, 38, 42
+[2025-03-06 17:15:07.015] [info] All colors passed! Contracted: 12, 16, 21, 23, 27, 31, 34, 36, 38
+[2025-03-06 17:15:08.143] [info] All colors passed! Contracted: 12, 16, 21, 23, 27, 30, 34, 36, 38
+[2025-03-06 17:15:08.198] [info] All colors passed! Contracted: 12, 16, 21, 23, 27, 30, 34, 38, 42
+[2025-03-06 17:15:21.043] [info] All colors passed! Contracted: 12, 16, 23, 27, 30, 31, 34, 38, 42
+[2025-03-06 17:15:21.082] [info] All colors passed! Contracted: 12, 16, 23, 27, 30, 31, 34, 36, 38
+[2025-03-06 17:18:05.142] [info] All colors passed! Contracted: 12, 16, 17, 21, 23, 27, 31, 34, 38
+[2025-03-06 17:18:08.944] [info] All colors passed! Contracted: 12, 16, 17, 21, 23, 27, 30, 34, 38
+[2025-03-06 17:18:34.191] [info] All colors passed! Contracted: 12, 16, 17, 21, 23, 30, 31, 34, 38
+[2025-03-06 17:21:44.783] [info] All colors passed! Contracted: 12, 14, 15, 16, 18, 19, 25, 41, 42
+[2025-03-06 17:25:49.707] [info] [1041543/1614999] Starting contraction of size 10
+[2025-03-06 17:31:23.986] [info] All colors passed! Contracted: 12, 16, 23, 27, 30, 31, 34, 37, 38, 41
+[2025-03-06 17:31:29.367] [info] All colors passed! Contracted: 12, 16, 20, 23, 25, 27, 30, 31, 34, 38
+[2025-03-06 17:31:35.123] [info] All colors passed! Contracted: 12, 16, 21, 23, 30, 31, 34, 37, 38, 41
+[2025-03-06 17:31:35.304] [info] All colors passed! Contracted: 12, 16, 21, 23, 27, 31, 34, 37, 38, 41
+[2025-03-06 17:31:35.376] [info] All colors passed! Contracted: 12, 16, 21, 23, 27, 30, 34, 37, 38, 41
+[2025-03-06 17:31:38.073] [info] All colors passed! Contracted: 12, 17, 19, 23, 27, 30, 31, 34, 36, 38
+[2025-03-06 17:31:52.702] [info] All colors passed! Contracted: 12, 17, 19, 21, 23, 30, 31, 34, 36, 38
+[2025-03-06 17:31:52.715] [info] All colors passed! Contracted: 12, 17, 19, 21, 23, 27, 31, 34, 36, 38
+[2025-03-06 17:31:52.794] [info] All colors passed! Contracted: 12, 17, 19, 21, 23, 27, 30, 34, 36, 38
+[2025-03-06 17:32:27.972] [info] All colors passed! Contracted: 12, 13, 16, 23, 27, 30, 31, 34, 38, 42
+[2025-03-06 17:32:28.447] [info] All colors passed! Contracted: 12, 13, 16, 23, 27, 29, 33, 35, 40, 41
+[2025-03-06 17:33:59.497] [info] All colors passed! Contracted: 12, 16, 17, 21, 23, 30, 31, 34, 38, 42
+[2025-03-06 17:33:59.517] [info] All colors passed! Contracted: 12, 16, 17, 21, 23, 30, 31, 34, 36, 38
+[2025-03-06 17:34:04.095] [info] All colors passed! Contracted: 12, 16, 17, 21, 23, 27, 30, 34, 38, 42
+[2025-03-06 17:34:04.125] [info] All colors passed! Contracted: 12, 16, 17, 21, 23, 27, 31, 34, 36, 38
+[2025-03-06 17:34:04.309] [info] All colors passed! Contracted: 12, 16, 17, 21, 23, 27, 30, 34, 36, 38
+[2025-03-06 17:34:04.499] [info] All colors passed! Contracted: 12, 16, 17, 21, 23, 27, 31, 34, 38, 42
+[2025-03-06 17:34:51.567] [info] All colors passed! Contracted: 12, 16, 18, 19, 23, 27, 30, 31, 34, 38
+[2025-03-06 17:35:23.200] [info] All colors passed! Contracted: 12, 16, 20, 21, 23, 25, 27, 31, 34, 38
+[2025-03-06 17:35:23.494] [info] All colors passed! Contracted: 12, 16, 20, 21, 23, 25, 27, 30, 34, 38
+[2025-03-06 17:35:30.291] [info] All colors passed! Contracted: 12, 16, 20, 21, 23, 25, 30, 31, 34, 38
+[2025-03-06 17:35:44.427] [info] All colors passed! Contracted: 12, 16, 17, 23, 27, 30, 31, 34, 38, 42
+[2025-03-06 17:35:44.447] [info] All colors passed! Contracted: 12, 16, 17, 23, 27, 30, 31, 34, 36, 38
+[2025-03-06 17:35:54.635] [info] All colors passed! Contracted: 12, 16, 18, 19, 21, 23, 27, 30, 34, 38
+[2025-03-06 17:35:55.505] [info] All colors passed! Contracted: 12, 16, 18, 19, 21, 23, 27, 31, 34, 38
+[2025-03-06 17:36:03.026] [info] All colors passed! Contracted: 12, 16, 18, 19, 21, 23, 30, 31, 34, 38
+[2025-03-06 17:36:26.269] [info] All colors passed! Contracted: 12, 13, 16, 17, 21, 23, 30, 31, 34, 38
+[2025-03-06 17:36:34.364] [info] All colors passed! Contracted: 12, 13, 16, 17, 21, 23, 27, 30, 34, 38
+[2025-03-06 17:36:35.295] [info] All colors passed! Contracted: 12, 13, 16, 17, 21, 23, 27, 31, 34, 38
+[2025-03-06 17:37:11.147] [info] All colors passed! Contracted: 12, 13, 16, 17, 23, 27, 30, 31, 34, 38
+[2025-03-06 17:38:18.118] [info] All colors passed! Contracted: 12, 14, 15, 16, 21, 23, 27, 30, 34, 38
+[2025-03-06 17:38:19.829] [info] All colors passed! Contracted: 12, 14, 15, 16, 21, 23, 27, 31, 34, 38
+[2025-03-06 17:38:42.019] [info] All colors passed! Contracted: 12, 14, 15, 16, 23, 27, 30, 31, 34, 38
+[2025-03-06 17:38:50.386] [info] All colors passed! Contracted: 12, 14, 15, 16, 21, 23, 30, 31, 34, 38
+[2025-03-06 17:39:42.856] [info] All colors passed! Contracted: 12, 13, 16, 21, 23, 30, 31, 34, 38, 42
+[2025-03-06 17:40:06.621] [info] All colors passed! Contracted: 12, 13, 16, 21, 23, 27, 30, 34, 38, 42
+[2025-03-06 17:40:06.732] [info] All colors passed! Contracted: 12, 13, 16, 21, 23, 27, 31, 34, 38, 42
+[2025-03-06 17:41:26.743] [info] [1271544/1614999] Starting contraction of size 11
+[2025-03-06 17:41:55.110] [info] All colors passed! Contracted: 12, 14, 15, 16, 21, 23, 27, 30, 34, 36, 38
+[2025-03-06 17:41:55.186] [info] All colors passed! Contracted: 12, 14, 15, 16, 21, 23, 27, 31, 34, 36, 38
+[2025-03-06 17:41:56.588] [info] All colors passed! Contracted: 12, 14, 15, 16, 21, 23, 30, 31, 34, 36, 38
+[2025-03-06 17:42:21.314] [info] All colors passed! Contracted: 12, 13, 16, 18, 19, 21, 23, 30, 31, 34, 38
+[2025-03-06 17:42:21.895] [info] All colors passed! Contracted: 12, 13, 16, 18, 19, 21, 23, 27, 31, 34, 38
+[2025-03-06 17:42:21.942] [info] All colors passed! Contracted: 12, 13, 16, 18, 19, 21, 23, 27, 30, 34, 38
+[2025-03-06 17:42:22.442] [info] All colors passed! Contracted: 12, 13, 16, 17, 23, 27, 29, 33, 35, 40, 41
+[2025-03-06 17:42:22.515] [info] All colors passed! Contracted: 12, 13, 16, 17, 23, 27, 30, 31, 34, 38, 42
+[2025-03-06 17:42:32.620] [info] All colors passed! Contracted: 12, 13, 16, 20, 23, 25, 27, 30, 31, 34, 38
+[2025-03-06 17:42:36.602] [info] All colors passed! Contracted: 12, 13, 16, 22, 23, 24, 26, 27, 33, 35, 41
+[2025-03-06 17:42:38.889] [info] All colors passed! Contracted: 12, 13, 16, 21, 23, 27, 29, 33, 35, 40, 41
+[2025-03-06 17:42:39.129] [info] All colors passed! Contracted: 12, 13, 16, 21, 23, 28, 30, 32, 33, 39, 41
+[2025-03-06 17:42:42.168] [info] All colors passed! Contracted: 12, 13, 16, 18, 19, 23, 27, 30, 31, 34, 38
+[2025-03-06 17:42:45.071] [info] All colors passed! Contracted: 12, 13, 16, 20, 21, 23, 25, 30, 31, 34, 38
+[2025-03-06 17:42:45.671] [info] All colors passed! Contracted: 12, 13, 16, 20, 21, 23, 25, 27, 31, 34, 38
+[2025-03-06 17:42:45.707] [info] All colors passed! Contracted: 12, 13, 16, 20, 21, 23, 25, 27, 30, 34, 38
+[2025-03-06 17:42:45.904] [info] All colors passed! Contracted: 15, 24, 25, 26, 28, 29, 30, 31, 32, 33, 40
+[2025-03-06 17:42:45.921] [info] All colors passed! Contracted: 15, 24, 25, 26, 28, 29, 30, 31, 32, 37, 40
+[2025-03-06 17:43:16.917] [info] All colors passed! Contracted: 12, 13, 16, 17, 21, 23, 30, 31, 34, 38, 42
+[2025-03-06 17:43:17.731] [info] All colors passed! Contracted: 12, 13, 16, 17, 21, 23, 27, 30, 34, 38, 42
+[2025-03-06 17:43:17.820] [info] All colors passed! Contracted: 12, 13, 16, 17, 21, 23, 27, 31, 34, 38, 42
+[2025-03-06 17:43:45.509] [info] All colors passed! Contracted: 12, 14, 15, 16, 17, 21, 23, 27, 31, 34, 38
+[2025-03-06 17:43:45.589] [info] All colors passed! Contracted: 12, 14, 15, 16, 17, 21, 23, 27, 30, 34, 38
+[2025-03-06 17:44:00.942] [info] All colors passed! Contracted: 12, 14, 15, 16, 17, 23, 27, 30, 31, 34, 38
+[2025-03-06 17:44:10.800] [info] All colors passed! Contracted: 12, 14, 15, 16, 17, 21, 23, 30, 31, 34, 38
+[2025-03-06 17:44:32.685] [info] All colors passed! Contracted: 12, 13, 17, 19, 23, 27, 29, 33, 35, 40, 41
+[2025-03-06 17:47:11.416] [info] All colors passed! Contracted: 13, 22, 25, 26, 28, 29, 30, 31, 33, 35, 39
+[2025-03-06 17:47:13.469] [info] All colors passed! Contracted: 13, 22, 26, 28, 29, 30, 31, 33, 35, 39, 41
+[2025-03-06 17:49:25.834] [info] All colors passed! Contracted: 12, 14, 15, 16, 23, 27, 30, 31, 34, 36, 38
+[2025-03-06 17:50:07.013] [info] All colors passed! Contracted: 12, 16, 18, 19, 21, 23, 30, 31, 34, 36, 38
+[2025-03-06 17:50:10.503] [info] All colors passed! Contracted: 12, 16, 17, 23, 27, 30, 31, 34, 37, 38, 41
+[2025-03-06 17:50:14.997] [info] All colors passed! Contracted: 12, 16, 20, 23, 25, 27, 30, 31, 34, 36, 38
+[2025-03-06 17:50:20.256] [info] All colors passed! Contracted: 12, 16, 20, 21, 23, 25, 30, 31, 34, 36, 38
+[2025-03-06 17:50:26.580] [info] All colors passed! Contracted: 12, 16, 20, 21, 23, 25, 27, 30, 34, 36, 38
+[2025-03-06 17:50:26.635] [info] All colors passed! Contracted: 12, 16, 20, 21, 23, 25, 27, 31, 34, 36, 38
+[2025-03-06 17:50:34.124] [info] All colors passed! Contracted: 12, 16, 18, 19, 21, 23, 27, 31, 34, 36, 38
+[2025-03-06 17:50:34.340] [info] All colors passed! Contracted: 12, 16, 18, 19, 21, 23, 27, 30, 34, 36, 38
+[2025-03-06 17:50:36.296] [info] All colors passed! Contracted: 12, 16, 17, 21, 23, 30, 31, 34, 37, 38, 41
+[2025-03-06 17:50:39.123] [info] All colors passed! Contracted: 12, 16, 17, 21, 23, 27, 30, 34, 37, 38, 41
+[2025-03-06 17:50:40.606] [info] All colors passed! Contracted: 12, 16, 17, 21, 23, 27, 31, 34, 37, 38, 41
+[2025-03-06 17:50:55.609] [info] All colors passed! Contracted: 12, 16, 18, 19, 23, 27, 30, 31, 34, 36, 38
+[2025-03-06 17:51:08.867] [info] [1426649/1614999] Starting contraction of size 12
+[2025-03-06 17:53:10.648] [info] All colors passed! Contracted: 12, 16, 18, 19, 23, 27, 30, 31, 34, 37, 38, 41
+[2025-03-06 17:53:15.145] [info] All colors passed! Contracted: 12, 16, 20, 23, 25, 27, 30, 31, 34, 37, 38, 41
+[2025-03-06 17:53:18.531] [info] All colors passed! Contracted: 12, 16, 20, 21, 23, 25, 27, 30, 34, 37, 38, 41
+[2025-03-06 17:53:18.678] [info] All colors passed! Contracted: 12, 16, 20, 21, 23, 25, 27, 31, 34, 37, 38, 41
+[2025-03-06 17:53:18.911] [info] All colors passed! Contracted: 12, 16, 20, 21, 23, 25, 30, 31, 34, 37, 38, 41
+[2025-03-06 17:53:27.776] [info] All colors passed! Contracted: 12, 16, 18, 19, 21, 23, 27, 31, 34, 37, 38, 41
+[2025-03-06 17:53:27.805] [info] All colors passed! Contracted: 12, 16, 18, 19, 21, 23, 27, 30, 34, 37, 38, 41
+[2025-03-06 17:53:28.233] [info] All colors passed! Contracted: 12, 16, 18, 19, 21, 23, 30, 31, 34, 37, 38, 41
+[2025-03-06 17:53:31.300] [info] All colors passed! Contracted: 12, 14, 15, 16, 20, 23, 25, 27, 30, 31, 34, 38
+[2025-03-06 17:53:39.669] [info] All colors passed! Contracted: 12, 14, 15, 16, 18, 19, 21, 23, 30, 31, 34, 38
+[2025-03-06 17:53:41.932] [info] All colors passed! Contracted: 12, 14, 15, 16, 18, 19, 20, 27, 30, 31, 34, 37
+[2025-03-06 17:53:42.004] [info] All colors passed! Contracted: 12, 14, 15, 16, 18, 19, 21, 23, 27, 30, 34, 38
+[2025-03-06 17:53:42.093] [info] All colors passed! Contracted: 12, 14, 15, 16, 18, 19, 21, 23, 27, 31, 34, 38
+[2025-03-06 17:53:44.006] [info] All colors passed! Contracted: 12, 14, 15, 16, 20, 21, 23, 25, 27, 30, 34, 38
+[2025-03-06 17:53:44.090] [info] All colors passed! Contracted: 12, 14, 15, 16, 20, 21, 23, 25, 27, 31, 34, 38
+[2025-03-06 17:53:44.154] [info] All colors passed! Contracted: 12, 14, 15, 16, 20, 21, 23, 25, 30, 31, 34, 38
+[2025-03-06 17:53:45.988] [info] All colors passed! Contracted: 12, 14, 15, 16, 18, 19, 23, 27, 30, 31, 34, 38
+[2025-03-06 17:53:58.516] [info] All colors passed! Contracted: 12, 14, 15, 17, 19, 21, 23, 27, 31, 34, 36, 38
+[2025-03-06 17:53:58.574] [info] All colors passed! Contracted: 12, 14, 15, 17, 19, 21, 23, 27, 30, 34, 36, 38
+[2025-03-06 17:53:58.843] [info] All colors passed! Contracted: 12, 14, 15, 17, 19, 21, 23, 30, 31, 34, 36, 38
+[2025-03-06 17:54:03.550] [info] All colors passed! Contracted: 12, 14, 15, 17, 19, 23, 27, 30, 31, 34, 36, 38
+[2025-03-06 17:54:48.036] [info] All colors passed! Contracted: 14, 18, 20, 21, 23, 25, 30, 31, 34, 37, 38, 41
+[2025-03-06 17:54:49.879] [info] All colors passed! Contracted: 14, 18, 20, 23, 25, 27, 30, 31, 34, 37, 38, 41
+[2025-03-06 17:54:55.157] [info] All colors passed! Contracted: 14, 18, 20, 21, 23, 25, 27, 30, 34, 37, 38, 41
+[2025-03-06 17:54:55.415] [info] All colors passed! Contracted: 14, 18, 20, 21, 23, 25, 27, 31, 34, 37, 38, 41
+[2025-03-06 17:55:36.064] [info] All colors passed! Contracted: 12, 13, 16, 23, 27, 30, 31, 34, 36, 37, 38, 41
+[2025-03-06 17:55:37.002] [info] All colors passed! Contracted: 12, 13, 17, 19, 21, 23, 28, 30, 32, 33, 39, 41
+[2025-03-06 17:55:37.522] [info] All colors passed! Contracted: 12, 13, 17, 19, 21, 23, 27, 29, 33, 35, 40, 41
+[2025-03-06 17:55:37.731] [info] All colors passed! Contracted: 12, 13, 16, 21, 23, 30, 31, 34, 36, 37, 38, 41
+[2025-03-06 17:55:38.349] [info] All colors passed! Contracted: 12, 13, 16, 21, 23, 27, 30, 34, 36, 37, 38, 41
+[2025-03-06 17:55:38.355] [info] All colors passed! Contracted: 12, 13, 16, 21, 23, 27, 31, 34, 36, 37, 38, 41
+[2025-03-06 17:55:41.181] [info] All colors passed! Contracted: 12, 13, 17, 19, 22, 23, 24, 26, 27, 33, 35, 41
+[2025-03-06 17:55:43.854] [info] All colors passed! Contracted: 12, 14, 15, 16, 17, 21, 23, 27, 31, 34, 36, 38
+[2025-03-06 17:55:43.966] [info] All colors passed! Contracted: 12, 14, 15, 16, 17, 21, 23, 27, 30, 34, 36, 38
+[2025-03-06 17:55:48.693] [info] All colors passed! Contracted: 12, 14, 15, 16, 17, 21, 23, 30, 31, 34, 36, 38
+[2025-03-06 17:56:02.387] [info] All colors passed! Contracted: 12, 13, 16, 17, 22, 23, 24, 26, 27, 33, 35, 41
+[2025-03-06 17:56:04.473] [info] All colors passed! Contracted: 12, 13, 16, 17, 21, 23, 27, 29, 33, 35, 40, 41
+[2025-03-06 17:56:04.772] [info] All colors passed! Contracted: 12, 13, 16, 17, 21, 23, 28, 30, 32, 33, 39, 41
+[2025-03-06 17:56:16.167] [info] All colors passed! Contracted: 12, 13, 16, 18, 19, 23, 27, 29, 33, 35, 40, 41
+[2025-03-06 17:56:19.184] [info] All colors passed! Contracted: 12, 13, 16, 20, 23, 25, 27, 29, 33, 35, 40, 41
+[2025-03-06 17:56:27.132] [info] All colors passed! Contracted: 12, 14, 15, 16, 18, 19, 20, 21, 30, 31, 34, 37
+[2025-03-06 17:56:27.700] [info] All colors passed! Contracted: 12, 14, 15, 16, 18, 19, 20, 21, 27, 30, 34, 37
+[2025-03-06 17:56:27.804] [info] All colors passed! Contracted: 12, 14, 15, 16, 18, 19, 20, 21, 27, 31, 34, 37
+[2025-03-06 17:56:31.239] [info] All colors passed! Contracted: 12, 14, 15, 16, 17, 23, 27, 30, 31, 34, 36, 38
+[2025-03-06 17:56:32.465] [info] [1518832/1614999] Starting contraction of size 13
+[2025-03-06 17:56:34.170] [info] All colors passed! Contracted: 12, 13, 16, 20, 21, 23, 25, 27, 29, 33, 35, 40, 41
+[2025-03-06 17:56:34.335] [info] All colors passed! Contracted: 12, 13, 16, 20, 21, 23, 25, 28, 30, 32, 33, 39, 41
+[2025-03-06 17:56:42.497] [info] All colors passed! Contracted: 12, 13, 16, 20, 22, 23, 24, 25, 26, 27, 33, 35, 41
+[2025-03-06 17:56:45.957] [info] All colors passed! Contracted: 12, 14, 15, 16, 18, 19, 23, 27, 30, 31, 34, 36, 38
+[2025-03-06 17:56:46.601] [info] All colors passed! Contracted: 12, 13, 16, 18, 19, 21, 23, 27, 29, 33, 35, 40, 41
+[2025-03-06 17:56:46.837] [info] All colors passed! Contracted: 12, 13, 16, 18, 19, 21, 23, 28, 30, 32, 33, 39, 41
+[2025-03-06 17:56:55.061] [info] All colors passed! Contracted: 12, 14, 15, 16, 18, 19, 20, 21, 24, 27, 31, 34, 37
+[2025-03-06 17:56:55.433] [info] All colors passed! Contracted: 12, 13, 16, 18, 19, 22, 23, 24, 26, 27, 33, 35, 41
+[2025-03-06 17:57:01.877] [info] All colors passed! Contracted: 12, 13, 17, 19, 23, 27, 30, 31, 34, 36, 37, 38, 41
+[2025-03-06 17:57:06.880] [info] All colors passed! Contracted: 12, 14, 15, 16, 20, 23, 25, 27, 30, 31, 34, 36, 38
+[2025-03-06 17:57:16.811] [info] All colors passed! Contracted: 12, 14, 15, 16, 20, 21, 23, 25, 27, 31, 34, 36, 38
+[2025-03-06 17:57:16.968] [info] All colors passed! Contracted: 12, 14, 15, 16, 20, 21, 23, 25, 27, 30, 34, 36, 38
+[2025-03-06 17:57:17.286] [info] All colors passed! Contracted: 12, 14, 15, 16, 20, 21, 23, 25, 30, 31, 34, 36, 38
+[2025-03-06 17:57:17.750] [info] All colors passed! Contracted: 12, 13, 16, 22, 23, 24, 26, 27, 31, 33, 35, 39, 41
+[2025-03-06 17:57:25.557] [info] All colors passed! Contracted: 12, 13, 17, 19, 21, 23, 27, 31, 34, 36, 37, 38, 41
+[2025-03-06 17:57:25.583] [info] All colors passed! Contracted: 12, 13, 17, 19, 21, 23, 27, 30, 34, 36, 37, 38, 41
+[2025-03-06 17:57:25.878] [info] All colors passed! Contracted: 12, 13, 17, 19, 21, 23, 30, 31, 34, 36, 37, 38, 41
+[2025-03-06 17:57:30.895] [info] All colors passed! Contracted: 12, 14, 15, 16, 18, 19, 21, 23, 27, 30, 34, 36, 38
+[2025-03-06 17:57:31.549] [info] All colors passed! Contracted: 12, 14, 15, 16, 18, 19, 21, 23, 27, 31, 34, 36, 38
+[2025-03-06 17:57:33.327] [info] All colors passed! Contracted: 12, 14, 15, 16, 18, 19, 21, 23, 30, 31, 34, 36, 38
+[2025-03-06 17:57:54.869] [info] All colors passed! Contracted: 12, 14, 15, 16, 18, 19, 20, 21, 27, 31, 34, 37, 40
+[2025-03-06 17:58:10.979] [info] All colors passed! Contracted: 12, 13, 16, 17, 21, 23, 30, 31, 34, 36, 37, 38, 41
+[2025-03-06 17:58:11.134] [info] All colors passed! Contracted: 12, 13, 16, 17, 21, 23, 27, 31, 34, 36, 37, 38, 41
+[2025-03-06 17:58:11.447] [info] All colors passed! Contracted: 12, 13, 16, 17, 21, 23, 27, 30, 34, 36, 37, 38, 41
+[2025-03-06 17:58:13.897] [info] All colors passed! Contracted: 12, 13, 16, 17, 23, 27, 30, 31, 34, 36, 37, 38, 41
+[2025-03-06 17:58:31.399] [info] All colors passed! Contracted: 12, 14, 15, 16, 21, 23, 30, 31, 34, 37, 38, 41, 42
+[2025-03-06 17:58:39.277] [info] All colors passed! Contracted: 11, 14, 18, 20, 21, 23, 25, 30, 31, 34, 37, 38, 41
+[2025-03-06 17:58:40.882] [info] All colors passed! Contracted: 11, 14, 18, 20, 21, 23, 25, 27, 31, 34, 37, 38, 41
+[2025-03-06 17:58:41.641] [info] All colors passed! Contracted: 11, 14, 18, 20, 21, 23, 25, 27, 30, 34, 37, 38, 41
+[2025-03-06 17:58:47.830] [info] All colors passed! Contracted: 12, 14, 15, 16, 23, 27, 30, 31, 34, 37, 38, 41, 42
+[2025-03-06 17:58:52.454] [info] All colors passed! Contracted: 11, 14, 18, 20, 23, 25, 27, 30, 31, 34, 37, 38, 41
+[2025-03-06 17:58:57.158] [info] All colors passed! Contracted: 12, 16, 18, 19, 20, 23, 25, 27, 30, 31, 34, 38, 42
+[2025-03-06 17:59:06.878] [info] All colors passed! Contracted: 12, 16, 18, 19, 20, 21, 23, 25, 30, 31, 34, 38, 42
+[2025-03-06 17:59:08.970] [info] All colors passed! Contracted: 12, 14, 15, 16, 21, 23, 27, 30, 34, 37, 38, 41, 42
+[2025-03-06 17:59:09.236] [info] All colors passed! Contracted: 12, 16, 18, 19, 20, 21, 23, 25, 27, 31, 34, 38, 42
+[2025-03-06 17:59:10.185] [info] All colors passed! Contracted: 12, 14, 15, 16, 21, 23, 27, 31, 34, 37, 38, 41, 42
+[2025-03-06 17:59:17.836] [info] All colors passed! Contracted: 12, 16, 18, 19, 20, 21, 23, 25, 27, 30, 34, 38, 42
+[2025-03-06 17:59:17.846] [info] [1568694/1614999] Starting contraction of size 14
+[2025-03-06 17:59:30.310] [info] All colors passed! Contracted: 12, 13, 16, 18, 19, 20, 21, 23, 25, 27, 31, 34, 38, 42
+[2025-03-06 17:59:30.733] [info] All colors passed! Contracted: 12, 13, 16, 18, 19, 20, 21, 23, 25, 27, 30, 34, 38, 42
+[2025-03-06 17:59:31.093] [info] All colors passed! Contracted: 12, 13, 16, 18, 19, 20, 21, 23, 25, 30, 31, 34, 38, 42
+[2025-03-06 17:59:35.124] [info] All colors passed! Contracted: 12, 14, 15, 16, 17, 21, 23, 27, 30, 34, 37, 38, 41, 42
+[2025-03-06 17:59:37.063] [info] All colors passed! Contracted: 12, 14, 15, 16, 17, 21, 23, 27, 31, 34, 37, 38, 41, 42
+[2025-03-06 17:59:41.565] [info] All colors passed! Contracted: 12, 14, 15, 16, 17, 21, 23, 30, 31, 34, 37, 38, 41, 42
+[2025-03-06 17:59:49.233] [info] All colors passed! Contracted: 12, 13, 16, 17, 22, 23, 24, 26, 27, 31, 33, 35, 39, 41
+[2025-03-06 17:59:55.864] [info] All colors passed! Contracted: 12, 14, 15, 16, 18, 19, 20, 24, 27, 30, 31, 34, 37, 40
+[2025-03-06 17:59:59.799] [info] All colors passed! Contracted: 12, 13, 17, 19, 22, 23, 24, 26, 27, 31, 33, 35, 39, 41
+[2025-03-06 18:00:03.272] [info] All colors passed! Contracted: 12, 13, 16, 18, 19, 23, 27, 30, 31, 34, 36, 37, 38, 41
+[2025-03-06 18:00:05.466] [info] All colors passed! Contracted: 12, 14, 15, 16, 18, 19, 20, 21, 24, 27, 30, 34, 37, 40
+[2025-03-06 18:00:14.679] [info] All colors passed! Contracted: 12, 14, 15, 16, 17, 23, 27, 30, 31, 34, 37, 38, 41, 42
+[2025-03-06 18:00:15.384] [info] All colors passed! Contracted: 12, 13, 16, 20, 23, 25, 27, 30, 31, 34, 36, 37, 38, 41
+[2025-03-06 18:00:18.981] [info] All colors passed! Contracted: 12, 13, 16, 20, 21, 23, 25, 27, 31, 34, 36, 37, 38, 41
+[2025-03-06 18:00:19.110] [info] All colors passed! Contracted: 12, 13, 16, 20, 21, 23, 25, 27, 30, 34, 36, 37, 38, 41
+[2025-03-06 18:00:19.358] [info] All colors passed! Contracted: 12, 13, 16, 22, 23, 24, 26, 27, 29, 30, 33, 35, 40, 41
+[2025-03-06 18:00:19.900] [info] All colors passed! Contracted: 12, 13, 16, 20, 21, 23, 25, 30, 31, 34, 36, 37, 38, 41
+[2025-03-06 18:00:22.572] [info] All colors passed! Contracted: 12, 13, 16, 18, 19, 21, 23, 27, 31, 34, 36, 37, 38, 41
+[2025-03-06 18:00:22.674] [info] All colors passed! Contracted: 12, 13, 16, 18, 19, 21, 23, 27, 30, 34, 36, 37, 38, 41
+[2025-03-06 18:00:25.849] [info] All colors passed! Contracted: 12, 13, 16, 18, 19, 21, 23, 30, 31, 34, 36, 37, 38, 41
+[2025-03-06 18:00:28.008] [info] All colors passed! Contracted: 12, 13, 16, 18, 19, 20, 23, 25, 27, 30, 31, 34, 38, 42
+[2025-03-06 18:00:31.562] [info] All colors passed! Contracted: 12, 14, 15, 16, 18, 19, 20, 21, 24, 30, 31, 34, 37, 40
+[2025-03-06 18:00:36.893] [info] [1593831/1614999] Starting contraction of size 15
+[2025-03-06 18:00:47.289] [info] All colors passed! Contracted: 12, 13, 17, 19, 22, 23, 24, 26, 27, 29, 30, 33, 35, 40, 41
+[2025-03-06 18:00:56.065] [info] All colors passed! Contracted: 12, 13, 16, 17, 22, 23, 24, 26, 27, 29, 30, 33, 35, 40, 41
+[2025-03-06 18:01:02.300] [info] All colors passed! Contracted: 12, 13, 16, 18, 19, 22, 23, 24, 26, 27, 31, 33, 35, 39, 41
+[2025-03-06 18:01:08.147] [info] All colors passed! Contracted: 12, 13, 16, 20, 22, 23, 24, 25, 26, 27, 31, 33, 35, 39, 41
+[2025-03-06 18:01:12.319] [info] [1605693/1614999] Starting contraction of size 16
+[2025-03-06 18:01:17.019] [info] All colors passed! Contracted: 12, 13, 16, 18, 19, 22, 23, 24, 26, 27, 29, 30, 33, 35, 40, 41
+[2025-03-06 18:01:24.869] [info] All colors passed! Contracted: 12, 13, 16, 20, 22, 23, 24, 25, 26, 27, 29, 30, 33, 35, 40, 41
+[2025-03-06 18:01:27.527] [info] [1611031/1614999] Starting contraction of size 17
+[2025-03-06 18:01:30.030] [info] All colors passed! Contracted: 12, 14, 15, 16, 18, 19, 20, 21, 23, 25, 27, 30, 34, 37, 38, 41, 42
+[2025-03-06 18:01:30.744] [info] All colors passed! Contracted: 12, 14, 15, 16, 18, 19, 20, 21, 23, 25, 27, 31, 34, 37, 38, 41, 42
+[2025-03-06 18:01:32.598] [info] All colors passed! Contracted: 12, 14, 15, 16, 18, 19, 20, 21, 23, 25, 30, 31, 34, 37, 38, 41, 42
+[2025-03-06 18:01:32.652] [info] All colors passed! Contracted: 12, 14, 15, 16, 18, 19, 20, 23, 25, 27, 30, 31, 34, 37, 38, 41, 42
+[2025-03-06 18:01:33.895] [info] [1613361/1614999] Starting contraction of size 18
+[2025-03-06 18:01:36.505] [info] [1614350/1614999] Starting contraction of size 19
+[2025-03-06 18:01:37.523] [info] [1614746/1614999] Starting contraction of size 20
+[2025-03-06 18:01:37.912] [info] [1614903/1614999] Starting contraction of size 21
+[2025-03-06 18:01:38.056] [info] [1614963/1614999] Starting contraction of size 22
+[2025-03-06 18:01:38.116] [info] [1614990/1614999] Starting contraction of size 23
+[2025-03-06 18:01:38.127] [info] [1614995/1614999] Starting contraction of size 24
+[2025-03-06 18:01:38.131] [info] [1614997/1614999] Starting contraction of size 25
+[2025-03-06 18:01:38.135] [info] Graph is C-reducible!

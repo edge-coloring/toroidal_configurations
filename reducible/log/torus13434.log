@@ -1,0 +1,29 @@
+[2024-07-03 13:53:44.722] [info] Kempe type: Toroidal
+[2024-07-03 13:53:44.722] [info] Vertex size: 37, Edge size: 63, Ring size: 15
+[2024-07-03 13:53:46.757] [info] Started D-reducibility check
+[2024-07-03 13:53:46.757] [info] #1: Feasible / Total: 64017 / 597871
+[2024-07-03 14:03:14.023] [info] #2: Feasible / Total: 103825 / 597871
+[2024-07-03 14:07:11.087] [info] #3: Feasible / Total: 125967 / 597871
+[2024-07-03 14:10:57.186] [info] #4: Feasible / Total: 144627 / 597871
+[2024-07-03 14:14:56.503] [info] #5: Feasible / Total: 165649 / 597871
+[2024-07-03 14:18:58.854] [info] #6: Feasible / Total: 188273 / 597871
+[2024-07-03 14:23:00.359] [info] #7: Feasible / Total: 212039 / 597871
+[2024-07-03 14:26:54.703] [info] #8: Feasible / Total: 237730 / 597871
+[2024-07-03 14:30:53.943] [info] #9: Feasible / Total: 267900 / 597871
+[2024-07-03 14:34:24.982] [info] #10: Feasible / Total: 301319 / 597871
+[2024-07-03 14:36:04.685] [info] #11: Feasible / Total: 322882 / 597871
+[2024-07-03 14:36:50.049] [info] #12: Feasible / Total: 329838 / 597871
+[2024-07-03 14:37:27.881] [info] #13: Feasible / Total: 334632 / 597871
+[2024-07-03 14:37:58.448] [info] #14: Feasible / Total: 339570 / 597871
+[2024-07-03 14:38:21.738] [info] #15: Feasible / Total: 343499 / 597871
+[2024-07-03 14:38:35.250] [info] #16: Feasible / Total: 346045 / 597871
+[2024-07-03 14:38:40.933] [info] #17: Feasible / Total: 346935 / 597871
+[2024-07-03 14:38:44.741] [info] #18: Feasible / Total: 346995 / 597871
+[2024-07-03 14:38:48.357] [info] #19: Feasible / Total: 347004 / 597871
+[2024-07-03 14:38:51.883] [info] #19: Feasible / Total: 347004 / 597871
+[2024-07-03 14:38:51.883] [info] Graph is not D-reducible.
+[2024-07-03 14:38:51.973] [info] Started C-reducibility check
+[2024-07-03 14:40:27.887] [info] Trying 55487298 possible contractions
+[2024-07-03 14:40:27.887] [info] [0/55487298] Starting contraction of size 1
+[2024-07-03 14:40:53.904] [info] All colors passed! Contracted: 47
+[2024-07-03 14:40:53.904] [info] Graph is C-reducible!

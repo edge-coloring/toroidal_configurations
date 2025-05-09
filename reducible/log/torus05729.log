@@ -1,0 +1,29 @@
+[2023-11-17 00:34:23.103] [info] Kempe type: Toroidal
+[2023-11-17 00:34:23.103] [info] Vertex size: 29, Edge size: 49, Ring size: 11
+[2023-11-17 00:34:28.508] [info] Started D-reducibility check
+[2023-11-17 00:34:28.552] [info] #1: Feasible / Total: 1988 / 7381
+[2023-11-17 00:34:36.638] [info] #2: Feasible / Total: 2662 / 7381
+[2023-11-17 00:34:38.733] [info] #3: Feasible / Total: 2940 / 7381
+[2023-11-17 00:34:39.358] [info] #4: Feasible / Total: 3006 / 7381
+[2023-11-17 00:34:40.218] [info] #5: Feasible / Total: 3054 / 7381
+[2023-11-17 00:34:45.622] [info] #6: Feasible / Total: 3107 / 7381
+[2023-11-17 00:34:46.081] [info] #7: Feasible / Total: 3193 / 7381
+[2023-11-17 00:34:46.717] [info] #8: Feasible / Total: 3297 / 7381
+[2023-11-17 00:34:47.313] [info] #9: Feasible / Total: 3452 / 7381
+[2023-11-17 00:34:47.960] [info] #10: Feasible / Total: 3558 / 7381
+[2023-11-17 00:34:49.443] [info] #11: Feasible / Total: 3628 / 7381
+[2023-11-17 00:34:53.372] [info] #12: Feasible / Total: 3684 / 7381
+[2023-11-17 00:34:53.746] [info] #13: Feasible / Total: 3728 / 7381
+[2023-11-17 00:34:53.934] [info] #14: Feasible / Total: 3736 / 7381
+[2023-11-17 00:34:54.138] [info] #14: Feasible / Total: 3736 / 7381
+[2023-11-17 00:34:54.138] [info] Graph is not D-reducible.
+[2023-11-17 00:34:54.195] [info] Started C-reducibility check
+[2023-11-17 00:42:42.123] [info] Trying 4419013 possible contractions
+[2023-11-17 00:42:42.134] [info] [0/4419013] Starting contraction of size 1
+[2023-11-17 00:43:22.793] [info] [38/4419013] Starting contraction of size 2
+[2023-11-17 00:52:36.482] [info] [676/4419013] Starting contraction of size 3
+[2023-11-17 01:54:05.273] [info] [6937/4419013] Starting contraction of size 4
+[2023-11-17 06:10:25.135] [info] [47027/4419013] Starting contraction of size 5
+[2023-11-17 18:01:21.869] [info] [224447/4419013] Starting contraction of size 6
+[2023-11-18 14:28:11.057] [info] All colors passed! Contracted: 18, 20, 21, 23, 26, 32
+[2023-11-18 14:28:11.057] [info] Graph is C-reducible!

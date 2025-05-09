@@ -1,0 +1,31 @@
+[2024-07-11 10:55:15.603] [info] Kempe type: Toroidal
+[2024-07-11 10:55:15.603] [info] Vertex size: 35, Edge size: 60, Ring size: 15
+[2024-07-11 10:55:19.674] [info] Started D-reducibility check
+[2024-07-11 10:55:19.674] [info] #1: Feasible / Total: 52888 / 597871
+[2024-07-11 11:02:15.932] [info] #2: Feasible / Total: 75438 / 597871
+[2024-07-11 11:04:51.799] [info] #3: Feasible / Total: 83647 / 597871
+[2024-07-11 11:06:05.599] [info] #4: Feasible / Total: 88263 / 597871
+[2024-07-11 11:07:01.747] [info] #5: Feasible / Total: 91914 / 597871
+[2024-07-11 11:07:54.196] [info] #6: Feasible / Total: 94998 / 597871
+[2024-07-11 11:08:52.152] [info] #7: Feasible / Total: 97937 / 597871
+[2024-07-11 11:09:51.924] [info] #8: Feasible / Total: 101166 / 597871
+[2024-07-11 11:10:51.594] [info] #9: Feasible / Total: 105053 / 597871
+[2024-07-11 11:12:02.962] [info] #10: Feasible / Total: 109738 / 597871
+[2024-07-11 11:13:26.410] [info] #11: Feasible / Total: 115955 / 597871
+[2024-07-11 11:15:27.137] [info] #12: Feasible / Total: 124533 / 597871
+[2024-07-11 11:18:08.966] [info] #13: Feasible / Total: 137548 / 597871
+[2024-07-11 11:21:48.389] [info] #14: Feasible / Total: 156537 / 597871
+[2024-07-11 11:26:47.436] [info] #15: Feasible / Total: 185140 / 597871
+[2024-07-11 11:34:47.399] [info] #16: Feasible / Total: 232455 / 597871
+[2024-07-11 11:45:39.119] [info] #17: Feasible / Total: 301750 / 597871
+[2024-07-11 11:55:39.933] [info] #18: Feasible / Total: 379199 / 597871
+[2024-07-11 12:00:02.881] [info] #19: Feasible / Total: 425102 / 597871
+[2024-07-11 12:00:59.057] [info] #20: Feasible / Total: 435069 / 597871
+[2024-07-11 12:01:02.551] [info] #21: Feasible / Total: 435191 / 597871
+[2024-07-11 12:01:05.011] [info] #21: Feasible / Total: 435191 / 597871
+[2024-07-11 12:01:05.011] [info] Graph is not D-reducible.
+[2024-07-11 12:01:05.102] [info] Started C-reducibility check
+[2024-07-11 12:01:54.620] [info] Trying 28756511 possible contractions
+[2024-07-11 12:01:54.620] [info] [0/28756511] Starting contraction of size 1
+[2024-07-11 12:01:56.084] [info] All colors passed! Contracted: 26
+[2024-07-11 12:01:56.084] [info] Graph is C-reducible!

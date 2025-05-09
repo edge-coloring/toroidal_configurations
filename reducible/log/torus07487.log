@@ -1,0 +1,36 @@
+[2024-08-01 15:17:59.107] [info] Kempe type: Toroidal
+[2024-08-01 15:17:59.107] [info] Vertex size: 32, Edge size: 55, Ring size: 14
+[2024-08-01 15:18:00.163] [info] Started D-reducibility check
+[2024-08-01 15:18:00.163] [info] #1: Feasible / Total: 21017 / 199291
+[2024-08-01 15:20:01.113] [info] #2: Feasible / Total: 31722 / 199291
+[2024-08-01 15:20:34.059] [info] #3: Feasible / Total: 36628 / 199291
+[2024-08-01 15:20:59.771] [info] #4: Feasible / Total: 40461 / 199291
+[2024-08-01 15:21:21.040] [info] #5: Feasible / Total: 44262 / 199291
+[2024-08-01 15:21:41.121] [info] #6: Feasible / Total: 48063 / 199291
+[2024-08-01 15:22:01.882] [info] #7: Feasible / Total: 52136 / 199291
+[2024-08-01 15:22:27.371] [info] #8: Feasible / Total: 56601 / 199291
+[2024-08-01 15:23:02.230] [info] #9: Feasible / Total: 61422 / 199291
+[2024-08-01 15:23:34.515] [info] #10: Feasible / Total: 66413 / 199291
+[2024-08-01 15:24:06.182] [info] #11: Feasible / Total: 71556 / 199291
+[2024-08-01 15:24:45.324] [info] #12: Feasible / Total: 77978 / 199291
+[2024-08-01 15:25:20.322] [info] #13: Feasible / Total: 85347 / 199291
+[2024-08-01 15:25:55.662] [info] #14: Feasible / Total: 94282 / 199291
+[2024-08-01 15:26:24.820] [info] #15: Feasible / Total: 102965 / 199291
+[2024-08-01 15:26:40.524] [info] #16: Feasible / Total: 107196 / 199291
+[2024-08-01 15:26:47.126] [info] #17: Feasible / Total: 108693 / 199291
+[2024-08-01 15:26:49.601] [info] #18: Feasible / Total: 109045 / 199291
+[2024-08-01 15:26:50.877] [info] #19: Feasible / Total: 109106 / 199291
+[2024-08-01 15:26:52.102] [info] #20: Feasible / Total: 109116 / 199291
+[2024-08-01 15:26:53.147] [info] #21: Feasible / Total: 109119 / 199291
+[2024-08-01 15:26:54.183] [info] #22: Feasible / Total: 109121 / 199291
+[2024-08-01 15:26:55.200] [info] #22: Feasible / Total: 109121 / 199291
+[2024-08-01 15:26:55.200] [info] Graph is not D-reducible.
+[2024-08-01 15:26:55.223] [info] Started C-reducibility check
+[2024-08-01 15:27:13.937] [info] Trying 10826572 possible contractions
+[2024-08-01 15:27:13.937] [info] [0/10826572] Starting contraction of size 1
+[2024-08-01 15:27:29.498] [info] [41/10826572] Starting contraction of size 2
+[2024-08-01 15:31:27.748] [info] [793/10826572] Starting contraction of size 3
+[2024-08-01 16:08:03.206] [info] [8968/10826572] Starting contraction of size 4
+[2024-08-01 20:06:23.844] [info] [67849/10826572] Starting contraction of size 5
+[2024-08-02 10:07:36.730] [info] All colors passed! Contracted: 24, 38, 42, 43, 52
+[2024-08-02 10:07:36.730] [info] Graph is C-reducible!

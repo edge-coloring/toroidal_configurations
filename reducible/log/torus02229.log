@@ -1,0 +1,30 @@
+[2023-11-16 13:46:30.429] [info] Kempe type: Toroidal
+[2023-11-16 13:46:30.429] [info] Vertex size: 32, Edge size: 55, Ring size: 14
+[2023-11-16 13:46:35.385] [info] Started D-reducibility check
+[2023-11-16 13:46:35.385] [info] #1: Feasible / Total: 22429 / 199291
+[2023-11-16 13:56:07.457] [info] #2: Feasible / Total: 28438 / 199291
+[2023-11-16 13:58:40.911] [info] #3: Feasible / Total: 31126 / 199291
+[2023-11-16 13:59:50.932] [info] #4: Feasible / Total: 32937 / 199291
+[2023-11-16 14:00:34.206] [info] #5: Feasible / Total: 34196 / 199291
+[2023-11-16 14:01:24.959] [info] #6: Feasible / Total: 35520 / 199291
+[2023-11-16 14:02:27.881] [info] #7: Feasible / Total: 37182 / 199291
+[2023-11-16 14:03:40.505] [info] #8: Feasible / Total: 39211 / 199291
+[2023-11-16 14:04:45.378] [info] #9: Feasible / Total: 41671 / 199291
+[2023-11-16 14:06:22.949] [info] #10: Feasible / Total: 44926 / 199291
+[2023-11-16 14:08:19.284] [info] #11: Feasible / Total: 49539 / 199291
+[2023-11-16 14:11:03.233] [info] #12: Feasible / Total: 57005 / 199291
+[2023-11-16 14:15:28.169] [info] #13: Feasible / Total: 70576 / 199291
+[2023-11-16 14:21:01.076] [info] #14: Feasible / Total: 93247 / 199291
+[2023-11-16 14:28:59.420] [info] #15: Feasible / Total: 128970 / 199291
+[2023-11-16 14:38:11.154] [info] #16: Feasible / Total: 176874 / 199291
+[2023-11-16 14:39:09.535] [info] #17: Feasible / Total: 189235 / 199291
+[2023-11-16 14:39:10.349] [info] #18: Feasible / Total: 189242 / 199291
+[2023-11-16 14:39:11.103] [info] #18: Feasible / Total: 189242 / 199291
+[2023-11-16 14:39:11.103] [info] Graph is not D-reducible.
+[2023-11-16 14:39:11.267] [info] Started C-reducibility check
+[2023-11-16 14:43:41.468] [info] Trying 10868116 possible contractions
+[2023-11-16 14:43:41.478] [info] [0/10868116] Starting contraction of size 1
+[2023-11-16 14:45:01.988] [info] [41/10868116] Starting contraction of size 2
+[2023-11-16 15:04:18.279] [info] [793/10868116] Starting contraction of size 3
+[2023-11-16 15:05:15.151] [info] All colors passed! Contracted: 32, 48, 53
+[2023-11-16 15:05:15.151] [info] Graph is C-reducible!

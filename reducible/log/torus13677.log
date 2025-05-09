@@ -1,0 +1,29 @@
+[2024-04-15 21:26:47.576] [info] Kempe type: Toroidal
+[2024-04-15 21:26:47.576] [info] Vertex size: 38, Edge size: 64, Ring size: 14
+[2024-04-15 21:26:49.169] [info] Started D-reducibility check
+[2024-04-15 21:26:49.169] [info] #1: Feasible / Total: 29819 / 199291
+[2024-04-15 21:28:03.385] [info] #2: Feasible / Total: 40107 / 199291
+[2024-04-15 21:28:34.758] [info] #3: Feasible / Total: 47676 / 199291
+[2024-04-15 21:29:07.561] [info] #4: Feasible / Total: 55485 / 199291
+[2024-04-15 21:29:48.328] [info] #5: Feasible / Total: 64603 / 199291
+[2024-04-15 21:30:28.389] [info] #6: Feasible / Total: 76515 / 199291
+[2024-04-15 21:31:03.647] [info] #7: Feasible / Total: 89416 / 199291
+[2024-04-15 21:31:25.955] [info] #8: Feasible / Total: 97818 / 199291
+[2024-04-15 21:31:37.686] [info] #9: Feasible / Total: 102187 / 199291
+[2024-04-15 21:31:48.701] [info] #10: Feasible / Total: 105749 / 199291
+[2024-04-15 21:31:58.651] [info] #11: Feasible / Total: 109420 / 199291
+[2024-04-15 21:32:09.605] [info] #12: Feasible / Total: 113663 / 199291
+[2024-04-15 21:32:13.732] [info] #13: Feasible / Total: 115163 / 199291
+[2024-04-15 21:32:17.624] [info] #14: Feasible / Total: 116007 / 199291
+[2024-04-15 21:32:22.233] [info] #15: Feasible / Total: 117301 / 199291
+[2024-04-15 21:32:25.154] [info] #16: Feasible / Total: 117791 / 199291
+[2024-04-15 21:32:26.242] [info] #17: Feasible / Total: 117877 / 199291
+[2024-04-15 21:32:27.086] [info] #18: Feasible / Total: 117911 / 199291
+[2024-04-15 21:32:27.875] [info] #19: Feasible / Total: 117913 / 199291
+[2024-04-15 21:32:28.652] [info] #19: Feasible / Total: 117913 / 199291
+[2024-04-15 21:32:28.652] [info] Graph is not D-reducible.
+[2024-04-15 21:32:28.672] [info] Started C-reducibility check
+[2024-04-15 21:34:03.916] [info] Trying 81427807 possible contractions
+[2024-04-15 21:34:03.916] [info] [0/81427807] Starting contraction of size 1
+[2024-04-15 21:34:47.476] [info] All colors passed! Contracted: 16
+[2024-04-15 21:34:47.476] [info] Graph is C-reducible!

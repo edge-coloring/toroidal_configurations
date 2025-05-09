@@ -1,0 +1,30 @@
+[2024-07-08 21:07:07.700] [info] Kempe type: Toroidal
+[2024-07-08 21:07:07.700] [info] Vertex size: 31, Edge size: 53, Ring size: 13
+[2024-07-08 21:07:07.892] [info] Started D-reducibility check
+[2024-07-08 21:07:07.892] [info] #1: Feasible / Total: 10290 / 66430
+[2024-07-08 21:07:20.378] [info] #2: Feasible / Total: 12426 / 66430
+[2024-07-08 21:07:24.508] [info] #3: Feasible / Total: 13947 / 66430
+[2024-07-08 21:07:27.624] [info] #4: Feasible / Total: 15264 / 66430
+[2024-07-08 21:07:30.788] [info] #5: Feasible / Total: 16673 / 66430
+[2024-07-08 21:07:34.458] [info] #6: Feasible / Total: 18443 / 66430
+[2024-07-08 21:07:39.007] [info] #7: Feasible / Total: 20586 / 66430
+[2024-07-08 21:07:42.862] [info] #8: Feasible / Total: 22830 / 66430
+[2024-07-08 21:07:46.405] [info] #9: Feasible / Total: 24611 / 66430
+[2024-07-08 21:07:48.840] [info] #10: Feasible / Total: 26124 / 66430
+[2024-07-08 21:07:51.450] [info] #11: Feasible / Total: 27378 / 66430
+[2024-07-08 21:07:53.370] [info] #12: Feasible / Total: 28390 / 66430
+[2024-07-08 21:07:55.174] [info] #13: Feasible / Total: 29409 / 66430
+[2024-07-08 21:07:57.517] [info] #14: Feasible / Total: 30621 / 66430
+[2024-07-08 21:07:58.811] [info] #15: Feasible / Total: 31239 / 66430
+[2024-07-08 21:07:59.397] [info] #16: Feasible / Total: 31384 / 66430
+[2024-07-08 21:07:59.703] [info] #17: Feasible / Total: 31394 / 66430
+[2024-07-08 21:07:59.965] [info] #17: Feasible / Total: 31394 / 66430
+[2024-07-08 21:07:59.965] [info] Graph is not D-reducible.
+[2024-07-08 21:07:59.973] [info] Started C-reducibility check
+[2024-07-08 21:08:11.772] [info] Trying 8127025 possible contractions
+[2024-07-08 21:08:11.772] [info] [0/8127025] Starting contraction of size 1
+[2024-07-08 21:08:16.808] [info] [40/8127025] Starting contraction of size 2
+[2024-07-08 21:09:33.961] [info] [753/8127025] Starting contraction of size 3
+[2024-07-08 21:21:18.374] [info] [8254/8127025] Starting contraction of size 4
+[2024-07-08 21:55:42.801] [info] All colors passed! Contracted: 13, 36, 38, 44
+[2024-07-08 21:55:42.801] [info] Graph is C-reducible!

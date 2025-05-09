@@ -1,0 +1,18 @@
+[2025-03-18 14:11:09.945] [info] Kempe type: Annular
+[2025-03-18 14:11:09.945] [info] Vertex size: 33, Edge size: 56, Ring size: 13 (2 + 11)
+[2025-03-18 14:11:15.658] [info] Started D-reducibility check
+[2025-03-18 14:11:15.658] [info] #1: Feasible / Total: 11819 / 66430
+[2025-03-18 14:11:24.408] [info] #2: Feasible / Total: 21731 / 66430
+[2025-03-18 14:11:28.169] [info] #3: Feasible / Total: 32448 / 66430
+[2025-03-18 14:11:29.971] [info] #4: Feasible / Total: 41915 / 66430
+[2025-03-18 14:11:30.680] [info] #5: Feasible / Total: 45056 / 66430
+[2025-03-18 14:11:31.155] [info] #6: Feasible / Total: 45448 / 66430
+[2025-03-18 14:11:31.499] [info] #7: Feasible / Total: 45485 / 66430
+[2025-03-18 14:11:31.803] [info] #8: Feasible / Total: 45486 / 66430
+[2025-03-18 14:11:32.090] [info] #8: Feasible / Total: 45486 / 66430
+[2025-03-18 14:11:32.091] [info] Graph is not D-reducible.
+[2025-03-18 14:11:32.098] [info] Started C-reducibility check
+[2025-03-18 14:11:33.880] [info] Trying 476496 possible contractions
+[2025-03-18 14:11:33.880] [info] [0/476496] Starting contraction of size 1
+[2025-03-18 14:12:33.134] [info] All colors passed! Contracted: 31
+[2025-03-18 14:12:33.134] [info] Graph is C-reducible!

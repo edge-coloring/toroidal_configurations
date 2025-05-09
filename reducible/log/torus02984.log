@@ -1,0 +1,29 @@
+[2023-11-16 13:46:30.604] [info] Kempe type: Toroidal
+[2023-11-16 13:46:30.604] [info] Vertex size: 35, Edge size: 60, Ring size: 15
+[2023-11-16 13:47:04.092] [info] Started D-reducibility check
+[2023-11-16 13:47:04.092] [info] #1: Feasible / Total: 58163 / 597871
+[2023-11-16 14:22:02.913] [info] #2: Feasible / Total: 73404 / 597871
+[2023-11-16 14:39:14.668] [info] #3: Feasible / Total: 80494 / 597871
+[2023-11-16 14:49:16.074] [info] #4: Feasible / Total: 85906 / 597871
+[2023-11-16 14:57:10.075] [info] #5: Feasible / Total: 91072 / 597871
+[2023-11-16 15:05:09.471] [info] #6: Feasible / Total: 96664 / 597871
+[2023-11-16 15:13:16.714] [info] #7: Feasible / Total: 102831 / 597871
+[2023-11-16 15:21:53.901] [info] #8: Feasible / Total: 109707 / 597871
+[2023-11-16 15:36:43.840] [info] #9: Feasible / Total: 117058 / 597871
+[2023-11-16 15:52:07.083] [info] #10: Feasible / Total: 125295 / 597871
+[2023-11-16 16:07:42.249] [info] #11: Feasible / Total: 134973 / 597871
+[2023-11-16 16:28:00.359] [info] #12: Feasible / Total: 146889 / 597871
+[2023-11-16 16:53:48.507] [info] #13: Feasible / Total: 164641 / 597871
+[2023-11-16 17:24:19.052] [info] #14: Feasible / Total: 192121 / 597871
+[2023-11-16 18:04:18.771] [info] #15: Feasible / Total: 234880 / 597871
+[2023-11-16 19:38:57.210] [info] #16: Feasible / Total: 305931 / 597871
+[2023-11-16 21:27:31.012] [info] #17: Feasible / Total: 416162 / 597871
+[2023-11-16 22:06:49.817] [info] #18: Feasible / Total: 513857 / 597871
+[2023-11-16 22:08:14.894] [info] #19: Feasible / Total: 519103 / 597871
+[2023-11-16 22:08:27.730] [info] #19: Feasible / Total: 519103 / 597871
+[2023-11-16 22:08:27.734] [info] Graph is not D-reducible.
+[2023-11-16 22:08:28.535] [info] Started C-reducibility check
+[2023-11-16 23:02:44.130] [info] Trying 28942297 possible contractions
+[2023-11-16 23:02:44.134] [info] [0/28942297] Starting contraction of size 1
+[2023-11-16 23:07:32.336] [info] All colors passed! Contracted: 52
+[2023-11-16 23:07:32.358] [info] Graph is C-reducible!

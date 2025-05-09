@@ -1,0 +1,29 @@
+# ignore all
+*
+!*/
+
+# allow list
+!.gitignore
+!reducible/conf/*.conf
+!reducible/log/*.log
+!reducible/contraction_log/*.log
+!reducible/dconf/*.dconf
+!reducible/img/*.png
+!reducible/summary.csv
+!reducible/contraction_summary.csv
+!noneed_discharge_program/conf/*.conf
+!noneed_discharge_program/log/*.log
+!noneed_discharge_program/dconf/*.dconf
+!noneed_discharge_program/img/*.png
+!noneed_discharge_program/summary.csv
+!rule/*.rule
+!dist5.py
+!summary.py
+!loop.py
+!loop.sh
+!README.md
+!nconfs/log/*.log
+!nconfs/nconf/*.nconf
+
+
+

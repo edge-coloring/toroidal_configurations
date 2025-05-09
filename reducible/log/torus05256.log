@@ -1,0 +1,16 @@
+[2024-06-21 14:34:23.944] [info] Kempe type: Toroidal
+[2024-06-21 14:34:23.944] [info] Vertex size: 42, Edge size: 71, Ring size: 16
+[2024-06-21 14:35:03.587] [info] Started D-reducibility check
+[2024-06-21 14:35:03.587] [info] #1: Feasible / Total: 185110 / 1793614
+[2024-06-21 19:27:32.838] [info] #2: Feasible / Total: 359507 / 1793614
+[2024-06-21 23:55:29.844] [info] #3: Feasible / Total: 607262 / 1793614
+[2024-06-22 06:07:06.865] [info] #4: Feasible / Total: 1107551 / 1793614
+[2024-06-22 08:11:55.248] [info] #5: Feasible / Total: 1647858 / 1793614
+[2024-06-22 08:13:23.688] [info] #6: Feasible / Total: 1675534 / 1793614
+[2024-06-22 08:13:27.724] [info] #6: Feasible / Total: 1675534 / 1793614
+[2024-06-22 08:13:27.724] [info] Graph is not D-reducible.
+[2024-06-22 08:13:28.816] [info] Started C-reducibility check
+[2024-06-22 08:21:43.942] [info] Trying 222167320 possible contractions
+[2024-06-22 08:21:43.942] [info] [0/222167320] Starting contraction of size 1
+[2024-06-22 08:22:48.763] [info] All colors passed! Contracted: 52
+[2024-06-22 08:22:48.764] [info] Graph is C-reducible!

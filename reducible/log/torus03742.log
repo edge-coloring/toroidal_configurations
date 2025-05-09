@@ -1,0 +1,51 @@
+[2023-11-16 15:21:25.384] [info] Kempe type: Toroidal
+[2023-11-16 15:21:25.384] [info] Vertex size: 32, Edge size: 55, Ring size: 14
+[2023-11-16 15:21:28.915] [info] Started D-reducibility check
+[2023-11-16 15:21:28.915] [info] #1: Feasible / Total: 21337 / 199291
+[2023-11-16 15:32:14.371] [info] #2: Feasible / Total: 28488 / 199291
+[2023-11-16 15:35:10.520] [info] #3: Feasible / Total: 31615 / 199291
+[2023-11-16 15:36:38.724] [info] #4: Feasible / Total: 33376 / 199291
+[2023-11-16 15:37:49.814] [info] #5: Feasible / Total: 34770 / 199291
+[2023-11-16 15:38:59.572] [info] #6: Feasible / Total: 36120 / 199291
+[2023-11-16 15:40:01.060] [info] #7: Feasible / Total: 37397 / 199291
+[2023-11-16 15:40:58.961] [info] #8: Feasible / Total: 38486 / 199291
+[2023-11-16 15:41:46.260] [info] #9: Feasible / Total: 39508 / 199291
+[2023-11-16 15:42:33.107] [info] #10: Feasible / Total: 40651 / 199291
+[2023-11-16 15:43:25.994] [info] #11: Feasible / Total: 41669 / 199291
+[2023-11-16 15:44:10.538] [info] #12: Feasible / Total: 42465 / 199291
+[2023-11-16 15:44:45.649] [info] #13: Feasible / Total: 43031 / 199291
+[2023-11-16 15:45:14.521] [info] #14: Feasible / Total: 43502 / 199291
+[2023-11-16 15:45:40.395] [info] #15: Feasible / Total: 43956 / 199291
+[2023-11-16 15:46:09.519] [info] #16: Feasible / Total: 44461 / 199291
+[2023-11-16 15:46:40.213] [info] #17: Feasible / Total: 45031 / 199291
+[2023-11-16 15:47:20.303] [info] #18: Feasible / Total: 45753 / 199291
+[2023-11-16 15:48:10.179] [info] #19: Feasible / Total: 46576 / 199291
+[2023-11-16 15:49:01.449] [info] #20: Feasible / Total: 47752 / 199291
+[2023-11-16 15:50:05.060] [info] #21: Feasible / Total: 49287 / 199291
+[2023-11-16 15:51:10.421] [info] #22: Feasible / Total: 50955 / 199291
+[2023-11-16 15:52:24.058] [info] #23: Feasible / Total: 52797 / 199291
+[2023-11-16 15:53:41.863] [info] #24: Feasible / Total: 54819 / 199291
+[2023-11-16 15:55:07.093] [info] #25: Feasible / Total: 57187 / 199291
+[2023-11-16 15:56:47.634] [info] #26: Feasible / Total: 59834 / 199291
+[2023-11-16 15:58:29.984] [info] #27: Feasible / Total: 62871 / 199291
+[2023-11-16 16:00:49.500] [info] #28: Feasible / Total: 66639 / 199291
+[2023-11-16 16:03:35.792] [info] #29: Feasible / Total: 71361 / 199291
+[2023-11-16 16:06:22.941] [info] #30: Feasible / Total: 77256 / 199291
+[2023-11-16 16:08:56.716] [info] #31: Feasible / Total: 83209 / 199291
+[2023-11-16 16:11:14.651] [info] #32: Feasible / Total: 88749 / 199291
+[2023-11-16 16:13:09.307] [info] #33: Feasible / Total: 93731 / 199291
+[2023-11-16 16:14:23.363] [info] #34: Feasible / Total: 97370 / 199291
+[2023-11-16 16:15:02.776] [info] #35: Feasible / Total: 99412 / 199291
+[2023-11-16 16:15:25.665] [info] #36: Feasible / Total: 100563 / 199291
+[2023-11-16 16:15:35.317] [info] #37: Feasible / Total: 100777 / 199291
+[2023-11-16 16:15:42.395] [info] #38: Feasible / Total: 100803 / 199291
+[2023-11-16 16:15:48.912] [info] #39: Feasible / Total: 100808 / 199291
+[2023-11-16 16:15:55.388] [info] #39: Feasible / Total: 100808 / 199291
+[2023-11-16 16:15:55.406] [info] Graph is not D-reducible.
+[2023-11-16 16:15:55.551] [info] Started C-reducibility check
+[2023-11-16 16:20:37.490] [info] Trying 10827483 possible contractions
+[2023-11-16 16:20:37.490] [info] [0/10827483] Starting contraction of size 1
+[2023-11-16 16:22:10.642] [info] [41/10827483] Starting contraction of size 2
+[2023-11-16 16:42:58.560] [info] [793/10827483] Starting contraction of size 3
+[2023-11-16 19:50:37.579] [info] All colors passed! Contracted: 42, 44, 54
+[2023-11-16 19:50:37.586] [info] Graph is C-reducible!

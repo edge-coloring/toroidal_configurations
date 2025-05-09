@@ -1,0 +1,29 @@
+[2024-03-20 17:41:28.979] [info] Kempe type: Toroidal
+[2024-03-20 17:41:28.979] [info] Vertex size: 34, Edge size: 58, Ring size: 14
+[2024-03-20 17:41:32.600] [info] Started D-reducibility check
+[2024-03-20 17:41:32.600] [info] #1: Feasible / Total: 24827 / 199291
+[2024-03-20 17:43:38.106] [info] #2: Feasible / Total: 30154 / 199291
+[2024-03-20 17:44:17.145] [info] #3: Feasible / Total: 32969 / 199291
+[2024-03-20 17:44:45.260] [info] #4: Feasible / Total: 35116 / 199291
+[2024-03-20 17:45:06.334] [info] #5: Feasible / Total: 37010 / 199291
+[2024-03-20 17:45:24.012] [info] #6: Feasible / Total: 38940 / 199291
+[2024-03-20 17:45:42.795] [info] #7: Feasible / Total: 40981 / 199291
+[2024-03-20 17:46:18.278] [info] #8: Feasible / Total: 43497 / 199291
+[2024-03-20 17:46:50.916] [info] #9: Feasible / Total: 46881 / 199291
+[2024-03-20 17:47:28.139] [info] #10: Feasible / Total: 51425 / 199291
+[2024-03-20 17:48:26.448] [info] #11: Feasible / Total: 58283 / 199291
+[2024-03-20 17:49:32.622] [info] #12: Feasible / Total: 67184 / 199291
+[2024-03-20 17:50:39.525] [info] #13: Feasible / Total: 79358 / 199291
+[2024-03-20 17:51:59.156] [info] #14: Feasible / Total: 96962 / 199291
+[2024-03-20 17:53:27.508] [info] #15: Feasible / Total: 114810 / 199291
+[2024-03-20 17:54:29.715] [info] #16: Feasible / Total: 131135 / 199291
+[2024-03-20 17:54:46.820] [info] #17: Feasible / Total: 137756 / 199291
+[2024-03-20 17:54:48.936] [info] #18: Feasible / Total: 138251 / 199291
+[2024-03-20 17:54:49.951] [info] #18: Feasible / Total: 138251 / 199291
+[2024-03-20 17:54:49.951] [info] Graph is not D-reducible.
+[2024-03-20 17:54:49.973] [info] Started C-reducibility check
+[2024-03-20 17:55:39.642] [info] Trying 22233629 possible contractions
+[2024-03-20 17:55:39.642] [info] [0/22233629] Starting contraction of size 1
+[2024-03-20 17:56:08.936] [info] [44/22233629] Starting contraction of size 2
+[2024-03-20 17:57:48.436] [info] All colors passed! Contracted: 33, 53
+[2024-03-20 17:57:48.436] [info] Graph is C-reducible!

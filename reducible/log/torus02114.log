@@ -1,0 +1,26 @@
+[2023-11-16 13:46:30.579] [info] Kempe type: Toroidal
+[2023-11-16 13:46:30.580] [info] Vertex size: 29, Edge size: 50, Ring size: 13
+[2023-11-16 13:46:32.532] [info] Started D-reducibility check
+[2023-11-16 13:46:32.532] [info] #1: Feasible / Total: 8647 / 66430
+[2023-11-16 13:47:43.328] [info] #2: Feasible / Total: 13183 / 66430
+[2023-11-16 13:48:17.221] [info] #3: Feasible / Total: 15310 / 66430
+[2023-11-16 13:48:38.226] [info] #4: Feasible / Total: 17040 / 66430
+[2023-11-16 13:48:55.139] [info] #5: Feasible / Total: 18403 / 66430
+[2023-11-16 13:49:14.465] [info] #6: Feasible / Total: 19695 / 66430
+[2023-11-16 13:49:36.454] [info] #7: Feasible / Total: 21198 / 66430
+[2023-11-16 13:50:05.272] [info] #8: Feasible / Total: 23222 / 66430
+[2023-11-16 13:50:36.906] [info] #9: Feasible / Total: 25906 / 66430
+[2023-11-16 13:51:15.315] [info] #10: Feasible / Total: 29603 / 66430
+[2023-11-16 13:52:02.703] [info] #11: Feasible / Total: 35658 / 66430
+[2023-11-16 13:52:39.347] [info] #12: Feasible / Total: 41707 / 66430
+[2023-11-16 13:52:49.377] [info] #13: Feasible / Total: 43965 / 66430
+[2023-11-16 13:52:51.366] [info] #14: Feasible / Total: 44131 / 66430
+[2023-11-16 13:52:52.762] [info] #15: Feasible / Total: 44230 / 66430
+[2023-11-16 13:52:53.838] [info] #16: Feasible / Total: 44235 / 66430
+[2023-11-16 13:52:54.801] [info] #16: Feasible / Total: 44235 / 66430
+[2023-11-16 13:52:54.801] [info] Graph is not D-reducible.
+[2023-11-16 13:52:54.854] [info] Started C-reducibility check
+[2023-11-16 13:53:42.565] [info] Trying 3640268 possible contractions
+[2023-11-16 13:53:42.565] [info] [0/3640268] Starting contraction of size 1
+[2023-11-16 13:53:57.306] [info] All colors passed! Contracted: 39
+[2023-11-16 13:53:57.306] [info] Graph is C-reducible!

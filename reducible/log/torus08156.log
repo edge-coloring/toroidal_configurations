@@ -1,0 +1,29 @@
+[2024-03-05 23:01:37.172] [info] Kempe type: Toroidal
+[2024-03-05 23:01:37.172] [info] Vertex size: 35, Edge size: 60, Ring size: 15
+[2024-03-05 23:01:39.234] [info] Started D-reducibility check
+[2024-03-05 23:01:39.234] [info] #1: Feasible / Total: 55891 / 597871
+[2024-03-05 23:08:40.912] [info] #2: Feasible / Total: 75289 / 597871
+[2024-03-05 23:11:44.127] [info] #3: Feasible / Total: 83950 / 597871
+[2024-03-05 23:13:48.496] [info] #4: Feasible / Total: 90391 / 597871
+[2024-03-05 23:15:51.060] [info] #5: Feasible / Total: 96887 / 597871
+[2024-03-05 23:17:49.422] [info] #6: Feasible / Total: 104210 / 597871
+[2024-03-05 23:20:05.209] [info] #7: Feasible / Total: 112348 / 597871
+[2024-03-05 23:22:41.143] [info] #8: Feasible / Total: 122265 / 597871
+[2024-03-05 23:25:31.489] [info] #9: Feasible / Total: 134643 / 597871
+[2024-03-05 23:28:53.687] [info] #10: Feasible / Total: 150705 / 597871
+[2024-03-05 23:32:54.437] [info] #11: Feasible / Total: 171783 / 597871
+[2024-03-05 23:37:17.919] [info] #12: Feasible / Total: 199421 / 597871
+[2024-03-05 23:43:01.097] [info] #13: Feasible / Total: 236534 / 597871
+[2024-03-05 23:50:34.998] [info] #14: Feasible / Total: 293557 / 597871
+[2024-03-06 00:00:27.244] [info] #15: Feasible / Total: 383909 / 597871
+[2024-03-06 00:06:27.039] [info] #16: Feasible / Total: 470220 / 597871
+[2024-03-06 00:07:29.179] [info] #17: Feasible / Total: 486391 / 597871
+[2024-03-06 00:07:31.400] [info] #18: Feasible / Total: 486433 / 597871
+[2024-03-06 00:07:32.912] [info] #18: Feasible / Total: 486433 / 597871
+[2024-03-06 00:07:32.912] [info] Graph is not D-reducible.
+[2024-03-06 00:07:33.001] [info] Started C-reducibility check
+[2024-03-06 00:08:19.013] [info] Trying 29044847 possible contractions
+[2024-03-06 00:08:19.013] [info] [0/29044847] Starting contraction of size 1
+[2024-03-06 00:09:31.397] [info] [45/29044847] Starting contraction of size 2
+[2024-03-06 00:13:09.390] [info] All colors passed! Contracted: 23, 33
+[2024-03-06 00:13:09.390] [info] Graph is C-reducible!
